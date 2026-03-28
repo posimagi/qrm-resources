@@ -14,5 +14,5 @@
     "ru": ["bandcharts/ru.png", "Russia", "Amateur radio bands in Russia (HF Only)", "", "[Amateur Operator's Union of Russia](https://srr.ru/radiooperatoram/radiochastoty/)", "🇷🇺"],
     "uk_hf": ["bandcharts/uk_hf.png", "United Kingdom (HF)", "Amateur radio bands in the UK (HF Only)", "", "[Online Amateur Radio Community](https://wiki.oarc.uk/_media/reference:uk_ham_bands_chart_-_v0003_-_2_pager.pdf)", "🇬🇧"],
     "uk_vhf": ["bandcharts/uk_vhf.png", "United Kingdom (VHF)", "Amateur radio bands in the UK (VHF Only)", "", "[Online Amateur Radio Community](https://wiki.oarc.uk/_media/reference:uk_ham_bands_chart_-_v0003_-_2_pager.pdf)", "🇬🇧"],
-    "us": ["bandcharts/us.png", "USA", "Amateur radio bands in the USA", "", "*[ARRL Frequency Chart](https://www.arrl.org/shop/ARRL-Frequency-Chart-11-17/)*  [[PDF]](http://www.arrl.org/files/file/Regulatory/Band%20Chart/Band%20Chart%20-%2011X17%20Color.pdf)", "🇺🇸"]
+    "us": ["bandcharts/us.png", "USA", "Amateur radio bands in the USA", "", "*[ARRL Frequency Chart](https://www.arrl.org/files/file/Regulatory/Band%20Chart/Hambands4_Color_11x8_5.pdf)", "🇺🇸"]
 }
