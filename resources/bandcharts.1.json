@@ -13,6 +13,7 @@
     "nz": ["bandcharts/nz.png", "New Zealand", "Amateur radio bands in New Zealand", "", "[Draft NZ Repeater and Fixed station maps 2026](https://nzart.org.nz/info/maps2026/)", "🇳🇿"],
     "ph": ["bandcharts/ph.png", "The Philippines", "Amateur radio bands in the Philippines", "", "DW5CD [[PDF]](https://github.com/miaowware/qrm-resources/files/7668695/Philippine.Amateur.Band.Plan.2021.pdf)", "🇵🇭"],
     "ru": ["bandcharts/ru.png", "Russia", "Amateur radio bands in Russia (HF Only)", "", "[Amateur Operator's Union of Russia](https://srr.ru/radiooperatoram/radiochastoty/)", "🇷🇺"],
+    "th": ["bandcharts/th.png", "Thailand", "Amateur radio bands in Thailand", "", "[Radio Amateur Society of Thailand](https://www.qsl.net/rast/text/HF-VHFbandplan.html)", "🇹🇭"],
     "uk_hf": ["bandcharts/uk_hf.png", "United Kingdom (HF)", "Amateur radio bands in the UK (HF Only)", "", "[Online Amateur Radio Community](https://wiki.oarc.uk/_media/reference:uk_ham_bands_chart_-_v0003_-_2_pager.pdf)", "🇬🇧"],
     "uk_vhf": ["bandcharts/uk_vhf.png", "United Kingdom (VHF)", "Amateur radio bands in the UK (VHF Only)", "", "[Online Amateur Radio Community](https://wiki.oarc.uk/_media/reference:uk_ham_bands_chart_-_v0003_-_2_pager.pdf)", "🇬🇧"],
     "us": ["bandcharts/us.png", "USA", "Amateur radio bands in the USA", "", "*[ARRL Frequency Chart](https://www.arrl.org/files/file/Regulatory/Band%20Chart/Hambands4_Color_11x8_5.pdf)", "🇺🇸"]
