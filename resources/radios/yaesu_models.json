@@ -1,1270 +1,315 @@
-[
-  {
-    "model": "FR-50",
-    "url": "https://www.rigpix.com/yaesu/fr50.htm"
-  },
-  {
-    "model": "FR-50B",
-    "url": "https://www.rigpix.com/yaesu/fr50b.htm"
-  },
-  {
-    "model": "FR-100B",
-    "url": "https://www.rigpix.com/yaesu/fr100b.htm"
-  },
-  {
-    "model": "FR-101",
-    "url": "https://www.rigpix.com/yaesu/fr101.htm"
-  },
-  {
-    "model": "FR-101 Digital",
-    "url": "https://www.rigpix.com/yaesu/fr101d.htm"
-  },
-  {
-    "model": "FR-101S",
-    "url": "https://www.rigpix.com/yaesu/fr101s.htm"
-  },
-  {
-    "model": "FRG-7",
-    "url": "https://www.rigpix.com/yaesu/frg7.htm"
-  },
-  {
-    "model": "FRG-100",
-    "url": "https://www.rigpix.com/yaesu/frg100.htm"
-  },
-  {
-    "model": "FRG-965",
-    "url": "https://www.rigpix.com/yaesu/frg965.htm"
-  },
-  {
-    "model": "FRG-7000",
-    "url": "https://www.rigpix.com/yaesu/frg7000.htm"
-  },
-  {
-    "model": "FRG-7700",
-    "url": "https://www.rigpix.com/yaesu/frg7700.htm"
-  },
-  {
-    "model": "FRG-8800",
-    "url": "https://www.rigpix.com/yaesu/frg8800.htm"
-  },
-  {
-    "model": "FRG-9600",
-    "url": "https://www.rigpix.com/yaesu/frg9600.htm"
-  },
-  {
-    "model": "VR-120",
-    "url": "https://www.rigpix.com/yaesu/vr120.htm"
-  },
-  {
-    "model": "VR-120D",
-    "url": "https://www.rigpix.com/yaesu/vr120d.htm"
-  },
-  {
-    "model": "VR-160",
-    "url": "https://www.rigpix.com/yaesu/vr160.htm"
-  },
-  {
-    "model": "VR-500",
-    "url": "https://www.rigpix.com/yaesu/vr500.htm"
-  },
-  {
-    "model": "VR-5000",
-    "url": "https://www.rigpix.com/yaesu/vr5000.htm"
-  },
-  {
-    "model": "FL-50",
-    "url": "https://www.rigpix.com/yaesu/fl50.htm"
-  },
-  {
-    "model": "FL-50B",
-    "url": "https://www.rigpix.com/yaesu/fl50b.htm"
-  },
-  {
-    "model": "FL-100B",
-    "url": "https://www.rigpix.com/yaesu/fl100b.htm"
-  },
-  {
-    "model": "FL-101",
-    "url": "https://www.rigpix.com/yaesu/fl101.htm"
-  },
-  {
-    "model": "FT-1DE",
-    "url": "https://www.rigpix.com/yaesu/ft1de.htm"
-  },
-  {
-    "model": "FT-1DR",
-    "url": "https://www.rigpix.com/yaesu/ft1dr.htm"
-  },
-  {
-    "model": "FT-1XDE",
-    "url": "https://www.rigpix.com/yaesu/ft1xde.htm"
-  },
-  {
-    "model": "FT-1XDR",
-    "url": "https://www.rigpix.com/yaesu/ft1xdr.htm"
-  },
-  {
-    "model": "FT-2DE",
-    "url": "https://www.rigpix.com/yaesu/ft2de.htm"
-  },
-  {
-    "model": "FT-2DR",
-    "url": "https://www.rigpix.com/yaesu/ft2dr.htm"
-  },
-  {
-    "model": "FT-3DE",
-    "url": "https://www.rigpix.com/yaesu/ft3de.htm"
-  },
-  {
-    "model": "FT-3DR",
-    "url": "https://www.rigpix.com/yaesu/ft3dr.htm"
-  },
-  {
-    "model": "FT-4VE",
-    "url": "https://www.rigpix.com/yaesu/ft4ve.htm"
-  },
-  {
-    "model": "FT-4VR",
-    "url": "https://www.rigpix.com/yaesu/ft4vr.htm"
-  },
-  {
-    "model": "FT-4XE",
-    "url": "https://www.rigpix.com/yaesu/ft4xe.htm"
-  },
-  {
-    "model": "FT-4XR",
-    "url": "https://www.rigpix.com/yaesu/ft4xr.htm"
-  },
-  {
-    "model": "FT-5DE",
-    "url": "https://www.rigpix.com/yaesu/ft5de.htm"
-  },
-  {
-    "model": "FT-5DR",
-    "url": "https://www.rigpix.com/yaesu/ft5dr.htm"
-  },
-  {
-    "model": "FT-10R",
-    "url": "https://www.rigpix.com/yaesu/ft10r.htm"
-  },
-  {
-    "model": "FT-11R",
-    "url": "https://www.rigpix.com/yaesu/ft11r.htm"
-  },
-  {
-    "model": "FT-23R",
-    "url": "https://www.rigpix.com/yaesu/ft23r.htm"
-  },
-  {
-    "model": "FT-25E",
-    "url": "https://www.rigpix.com/yaesu/ft25e.htm"
-  },
-  {
-    "model": "FT-25R",
-    "url": "https://www.rigpix.com/yaesu/ft25r.htm"
-  },
-  {
-    "model": "FT-26",
-    "url": "https://www.rigpix.com/yaesu/ft26.htm"
-  },
-  {
-    "model": "FT-33R",
-    "url": "https://www.rigpix.com/yaesu/ft33r.htm"
-  },
-  {
-    "model": "FT-40R",
-    "url": "https://www.rigpix.com/yaesu/ft40r.htm"
-  },
-  {
-    "model": "FT-41R",
-    "url": "https://www.rigpix.com/yaesu/ft41r.htm"
-  },
-  {
-    "model": "FT-50R",
-    "url": "https://www.rigpix.com/yaesu/ft50r.htm"
-  },
-  {
-    "model": "FT-51R",
-    "url": "https://www.rigpix.com/yaesu/ft51r.htm"
-  },
-  {
-    "model": "FT-60R",
-    "url": "https://www.rigpix.com/yaesu/ft60r.htm"
-  },
-  {
-    "model": "FT-65E",
-    "url": "https://www.rigpix.com/yaesu/ft65e.htm"
-  },
-  {
-    "model": "FT-65R",
-    "url": "https://www.rigpix.com/yaesu/ft65r.htm"
-  },
-  {
-    "model": "FT-70DE",
-    "url": "https://www.rigpix.com/yaesu/ft70de.htm"
-  },
-  {
-    "model": "FT-70DR",
-    "url": "https://www.rigpix.com/yaesu/ft70dr.htm"
-  },
-  {
-    "model": "FT-73R",
-    "url": "https://www.rigpix.com/yaesu/ft73r.htm"
-  },
-  {
-    "model": "FT-76",
-    "url": "https://www.rigpix.com/yaesu/ft76.htm"
-  },
-  {
-    "model": "FT-104",
-    "url": "https://www.rigpix.com/yaesu/ft104.htm"
-  },
-  {
-    "model": "FT-109RH",
-    "url": "https://www.rigpix.com/yaesu/ft109rh.htm"
-  },
-  {
-    "model": "FT-202R",
-    "url": "https://www.rigpix.com/yaesu/ft202r.htm"
-  },
-  {
-    "model": "FT-203R",
-    "url": "https://www.rigpix.com/yaesu/ft203r.htm"
-  },
-  {
-    "model": "FT-204",
-    "url": "https://www.rigpix.com/yaesu/ft204.htm"
-  },
-  {
-    "model": "FT-207R",
-    "url": "https://www.rigpix.com/yaesu/ft207r.htm"
-  },
-  {
-    "model": "FT-208R",
-    "url": "https://www.rigpix.com/yaesu/ft208r.htm"
-  },
-  {
-    "model": "FT-209R",
-    "url": "https://www.rigpix.com/yaesu/ft209r.htm"
-  },
-  {
-    "model": "FT-209RH",
-    "url": "https://www.rigpix.com/yaesu/ft209rh.htm"
-  },
-  {
-    "model": "FT-250R(E)",
-    "url": "https://www.rigpix.com/yaesu/ft250r.htm"
-  },
-  {
-    "model": "FT-252",
-    "url": "https://www.rigpix.com/yaesu/ft252.htm"
-  },
-  {
-    "model": "FT-257",
-    "url": "https://www.rigpix.com/yaesu/ft257.htm"
-  },
-  {
-    "model": "FT-270R(E)",
-    "url": "https://www.rigpix.com/yaesu/ft270r_ht.htm"
-  },
-  {
-    "model": "FT-290",
-    "url": "https://www.rigpix.com/yaesu/ft290.htm"
-  },
-  {
-    "model": "FT-290R",
-    "url": "https://www.rigpix.com/yaesu/ft290r.htm"
-  },
-  {
-    "model": "FT-290RII",
-    "url": "https://www.rigpix.com/yaesu/ft290rii.htm"
-  },
-  {
-    "model": "FT-404R",
-    "url": "https://www.rigpix.com/yaesu/ft404r.htm"
-  },
-  {
-    "model": "FT-411",
-    "url": "https://www.rigpix.com/yaesu/ft411.htm"
-  },
-  {
-    "model": "FT-411E",
-    "url": "https://www.rigpix.com/yaesu/ft411e.htm"
-  },
-  {
-    "model": "FT-411MKII",
-    "url": "https://www.rigpix.com/yaesu/ft411mkii.htm"
-  },
-  {
-    "model": "FT-415",
-    "url": "https://www.rigpix.com/yaesu/ft415.htm"
-  },
-  {
-    "model": "FT-416",
-    "url": "https://www.rigpix.com/yaesu/ft416.htm"
-  },
-  {
-    "model": "FT-470",
-    "url": "https://www.rigpix.com/yaesu/ft470.htm"
-  },
-  {
-    "model": "FT-530",
-    "url": "https://www.rigpix.com/yaesu/ft530.htm"
-  },
-  {
-    "model": "FT-690R",
-    "url": "https://www.rigpix.com/yaesu/ft690r.htm"
-  },
-  {
-    "model": "FT-690RII",
-    "url": "https://www.rigpix.com/yaesu/ft690rii.htm"
-  },
-  {
-    "model": "FT-703R",
-    "url": "https://www.rigpix.com/yaesu/ft703r.htm"
-  },
-  {
-    "model": "FT-708R",
-    "url": "https://www.rigpix.com/yaesu/ft708r.htm"
-  },
-  {
-    "model": "FT-709R",
-    "url": "https://www.rigpix.com/yaesu/ft709r.htm"
-  },
-  {
-    "model": "FT-727R",
-    "url": "https://www.rigpix.com/yaesu/ft727r.htm"
-  },
-  {
-    "model": "FT-790R",
-    "url": "https://www.rigpix.com/yaesu/ft790r.htm"
-  },
-  {
-    "model": "FT-790RII",
-    "url": "https://www.rigpix.com/yaesu/ft790rii.htm"
-  },
-  {
-    "model": "FT-811",
-    "url": "https://www.rigpix.com/yaesu/ft811.htm"
-  },
-  {
-    "model": "FT-815",
-    "url": "https://www.rigpix.com/yaesu/ft815.htm"
-  },
-  {
-    "model": "FT-816",
-    "url": "https://www.rigpix.com/yaesu/ft816.htm"
-  },
-  {
-    "model": "FT-817",
-    "url": "https://www.rigpix.com/yaesu/ft817.htm"
-  },
-  {
-    "model": "FT-817ND",
-    "url": "https://www.rigpix.com/yaesu/ft817nd.htm"
-  },
-  {
-    "model": "FT-818ND",
-    "url": "https://www.rigpix.com/yaesu/ft818.htm"
-  },
-  {
-    "model": "FT-911",
-    "url": "https://www.rigpix.com/yaesu/ft911.htm"
-  },
-  {
-    "model": "FT-2303",
-    "url": "https://www.rigpix.com/yaesu/ft2303r.htm"
-  },
-  {
-    "model": "FTX-1 Field",
-    "url": "https://www.rigpix.com/yaesu/ftx1f.htm"
-  },
-  {
-    "model": "VX-1R",
-    "url": "https://www.rigpix.com/yaesu/vx1r.htm"
-  },
-  {
-    "model": "VX-2R",
-    "url": "https://www.rigpix.com/yaesu/vx2r.htm"
-  },
-  {
-    "model": "VX-3E",
-    "url": "https://www.rigpix.com/yaesu/vx3e.htm"
-  },
-  {
-    "model": "VX-3R",
-    "url": "https://www.rigpix.com/yaesu/vx3r.htm"
-  },
-  {
-    "model": "VX-5R",
-    "url": "https://www.rigpix.com/yaesu/vx5r.htm"
-  },
-  {
-    "model": "VX-6E",
-    "url": "https://www.rigpix.com/yaesu/vx6e.htm"
-  },
-  {
-    "model": "VX-6R",
-    "url": "https://www.rigpix.com/yaesu/vx6r.htm"
-  },
-  {
-    "model": "VX-7R",
-    "url": "https://www.rigpix.com/yaesu/vx7r.htm"
-  },
-  {
-    "model": "VX-8DE",
-    "url": "https://www.rigpix.com/yaesu/vx8de.htm"
-  },
-  {
-    "model": "VX-8DR",
-    "url": "https://www.rigpix.com/yaesu/vx8dr.htm"
-  },
-  {
-    "model": "VX-8E",
-    "url": "https://www.rigpix.com/yaesu/vx8e.htm"
-  },
-  {
-    "model": "VX-8GE",
-    "url": "https://www.rigpix.com/yaesu/vx8ge.htm"
-  },
-  {
-    "model": "VX-8GR",
-    "url": "https://www.rigpix.com/yaesu/vx8gr.htm"
-  },
-  {
-    "model": "VX-8R",
-    "url": "https://www.rigpix.com/yaesu/vx8r.htm"
-  },
-  {
-    "model": "VX-110",
-    "url": "https://www.rigpix.com/yaesu/vx110.htm"
-  },
-  {
-    "model": "VX-120",
-    "url": "https://www.rigpix.com/yaesu/vx120.htm"
-  },
-  {
-    "model": "VX-150",
-    "url": "https://www.rigpix.com/yaesu/vx150.htm"
-  },
-  {
-    "model": "VX-170",
-    "url": "https://www.rigpix.com/yaesu/vx170.htm"
-  },
-  {
-    "model": "VX-177",
-    "url": "https://www.rigpix.com/yaesu/vx177.htm"
-  },
-  {
-    "model": "CPU-2500R",
-    "url": "https://www.rigpix.com/yaesu/cpu2500r.htm"
-  },
-  {
-    "model": "FT-2F",
-    "url": "https://www.rigpix.com/yaesu/ft2f.htm"
-  },
-  {
-    "model": "FT-2 Auto",
-    "url": "https://www.rigpix.com/yaesu/ft2auto.htm"
-  },
-  {
-    "model": "FT-90R",
-    "url": "https://www.rigpix.com/yaesu/ft90r.htm"
-  },
-  {
-    "model": "FT-127",
-    "url": "https://www.rigpix.com/yaesu/ft127.htm"
-  },
-  {
-    "model": "FT-127RA",
-    "url": "https://www.rigpix.com/yaesu/ft127ra.htm"
-  },
-  {
-    "model": "FT-211RH",
-    "url": "https://www.rigpix.com/yaesu/ft211rh.htm"
-  },
-  {
-    "model": "FT-212RH",
-    "url": "https://www.rigpix.com/yaesu/ft212rh.htm"
-  },
-  {
-    "model": "FT-215",
-    "url": "https://www.rigpix.com/yaesu/ft215.htm"
-  },
-  {
-    "model": "FT-215M",
-    "url": "https://www.rigpix.com/yaesu/ft215m.htm"
-  },
-  {
-    "model": "FT-215H",
-    "url": "https://www.rigpix.com/yaesu/ft215h.htm"
-  },
-  {
-    "model": "FT-224",
-    "url": "https://www.rigpix.com/yaesu/ft224.htm"
-  },
-  {
-    "model": "FT-227",
-    "url": "https://www.rigpix.com/yaesu/ft227.htm"
-  },
-  {
-    "model": "FT-227R",
-    "url": "https://www.rigpix.com/yaesu/ft227r.htm"
-  },
-  {
-    "model": "FT-227RA",
-    "url": "https://www.rigpix.com/yaesu/ft227ra.htm"
-  },
-  {
-    "model": "FT-227RB",
-    "url": "https://www.rigpix.com/yaesu/ft227rb.htm"
-  },
-  {
-    "model": "FT-230R",
-    "url": "https://www.rigpix.com/yaesu/ft230r.htm"
-  },
-  {
-    "model": "FT-270R",
-    "url": "https://www.rigpix.com/yaesu/ft270r.htm"
-  },
-  {
-    "model": "FT-270RH",
-    "url": "https://www.rigpix.com/yaesu/ft270rh.htm"
-  },
-  {
-    "model": "FT-311RM",
-    "url": "https://www.rigpix.com/yaesu/ft311rm.htm"
-  },
-  {
-    "model": "FT-480R",
-    "url": "https://www.rigpix.com/yaesu/ft480r.htm"
-  },
-  {
-    "model": "FT-627A",
-    "url": "https://www.rigpix.com/yaesu/ft627a.htm"
-  },
-  {
-    "model": "FT-627RA",
-    "url": "https://www.rigpix.com/yaesu/ft627ra.htm"
-  },
-  {
-    "model": "FT-680R",
-    "url": "https://www.rigpix.com/yaesu/ft680r.htm"
-  },
-  {
-    "model": "FT-711RH",
-    "url": "https://www.rigpix.com/yaesu/ft711rh.htm"
-  },
-  {
-    "model": "FT-712RH",
-    "url": "https://www.rigpix.com/yaesu/ft712rh.htm"
-  },
-  {
-    "model": "FT-715",
-    "url": "https://www.rigpix.com/yaesu/ft715.htm"
-  },
-  {
-    "model": "FT-715M",
-    "url": "https://www.rigpix.com/yaesu/ft715m.htm"
-  },
-  {
-    "model": "FT-715H",
-    "url": "https://www.rigpix.com/yaesu/ft715h.htm"
-  },
-  {
-    "model": "FT-720R",
-    "url": "https://www.rigpix.com/yaesu/ft720r.htm"
-  },
-  {
-    "model": "FT-730R",
-    "url": "https://www.rigpix.com/yaesu/ft730r.htm"
-  },
-  {
-    "model": "FT-770RH",
-    "url": "https://www.rigpix.com/yaesu/ft770rh.htm"
-  },
-  {
-    "model": "FT-780R",
-    "url": "https://www.rigpix.com/yaesu/ft780r.htm"
-  },
-  {
-    "model": "FT-912R",
-    "url": "https://www.rigpix.com/yaesu/ft912r.htm"
-  },
-  {
-    "model": "FT-1500M",
-    "url": "https://www.rigpix.com/yaesu/ft1500m.htm"
-  },
-  {
-    "model": "FT-1802M(E)",
-    "url": "https://www.rigpix.com/yaesu/ft1802e.htm"
-  },
-  {
-    "model": "FT-1900R(E)",
-    "url": "https://www.rigpix.com/yaesu/ft1900r.htm"
-  },
-  {
-    "model": "FT-2200",
-    "url": "https://www.rigpix.com/yaesu/ft2200.htm"
-  },
-  {
-    "model": "FT-2311R",
-    "url": "https://www.rigpix.com/yaesu/ft2311r.htm"
-  },
-  {
-    "model": "FT-2312",
-    "url": "https://www.rigpix.com/yaesu/ft2312r.htm"
-  },
-  {
-    "model": "FT-2400H",
-    "url": "https://www.rigpix.com/yaesu/ft2400.htm"
-  },
-  {
-    "model": "FT-2500M",
-    "url": "https://www.rigpix.com/yaesu/ft2500m.htm"
-  },
-  {
-    "model": "FT-2600M",
-    "url": "https://www.rigpix.com/yaesu/ft2600m.htm"
-  },
-  {
-    "model": "FT-2700R",
-    "url": "https://www.rigpix.com/yaesu/ft2700r.htm"
-  },
-  {
-    "model": "FT-2700RH",
-    "url": "https://www.rigpix.com/yaesu/ft2700rh.htm"
-  },
-  {
-    "model": "FT-2800M",
-    "url": "https://www.rigpix.com/yaesu/ft2800m.htm"
-  },
-  {
-    "model": "FT-2900R",
-    "url": "https://www.rigpix.com/yaesu/ft2900r.htm"
-  },
-  {
-    "model": "FT-2980E",
-    "url": "https://www.rigpix.com/yaesu/ft2980e.htm"
-  },
-  {
-    "model": "FT-2980R",
-    "url": "https://www.rigpix.com/yaesu/ft2980r.htm"
-  },
-  {
-    "model": "FT-3000M",
-    "url": "https://www.rigpix.com/yaesu/ft3000m.htm"
-  },
-  {
-    "model": "FT-3165E ASP",
-    "url": "https://www.rigpix.com/yaesu/ft3165easp.htm"
-  },
-  {
-    "model": "FT-3165R ASP",
-    "url": "https://www.rigpix.com/yaesu/ft3165rasp.htm"
-  },
-  {
-    "model": "FT-3185E ASP",
-    "url": "https://www.rigpix.com/yaesu/ft3185easp.htm"
-  },
-  {
-    "model": "FT-3185R ASP",
-    "url": "https://www.rigpix.com/yaesu/ft3185rasp.htm"
-  },
-  {
-    "model": "FT-3700",
-    "url": "https://www.rigpix.com/yaesu/ft3700.htm"
-  },
-  {
-    "model": "FT-3700H",
-    "url": "https://www.rigpix.com/yaesu/ft3700h.htm"
-  },
-  {
-    "model": "FT-3800",
-    "url": "https://www.rigpix.com/yaesu/ft3800.htm"
-  },
-  {
-    "model": "FT-3800H",
-    "url": "https://www.rigpix.com/yaesu/ft3800h.htm"
-  },
-  {
-    "model": "FT-3900",
-    "url": "https://www.rigpix.com/yaesu/ft3900.htm"
-  },
-  {
-    "model": "FT-3900H",
-    "url": "https://www.rigpix.com/yaesu/ft3900h.htm"
-  },
-  {
-    "model": "FT-4600",
-    "url": "https://www.rigpix.com/yaesu/ft4600.htm"
-  },
-  {
-    "model": "FT-4600H",
-    "url": "https://www.rigpix.com/yaesu/ft4600h.htm"
-  },
-  {
-    "model": "FT-4600M",
-    "url": "https://www.rigpix.com/yaesu/ft4600m.htm"
-  },
-  {
-    "model": "FT-4700RH",
-    "url": "https://www.rigpix.com/yaesu/ft4700rh.htm"
-  },
-  {
-    "model": "FT-4800",
-    "url": "https://www.rigpix.com/yaesu/ft4800.htm"
-  },
-  {
-    "model": "FT-4800H",
-    "url": "https://www.rigpix.com/yaesu/ft4800h.htm"
-  },
-  {
-    "model": "FT-4800M",
-    "url": "https://www.rigpix.com/yaesu/ft4800m.htm"
-  },
-  {
-    "model": "FT-4900",
-    "url": "https://www.rigpix.com/yaesu/ft4900.htm"
-  },
-  {
-    "model": "FT-4900H",
-    "url": "https://www.rigpix.com/yaesu/ft4900h.htm"
-  },
-  {
-    "model": "FT-4900M",
-    "url": "https://www.rigpix.com/yaesu/ft4900m.htm"
-  },
-  {
-    "model": "FT-5100",
-    "url": "https://www.rigpix.com/yaesu/ft5100.htm"
-  },
-  {
-    "model": "FT-5200",
-    "url": "https://www.rigpix.com/yaesu/ft5200.htm"
-  },
-  {
-    "model": "FT-5800",
-    "url": "https://www.rigpix.com/yaesu/ft5800.htm"
-  },
-  {
-    "model": "FT-5800H",
-    "url": "https://www.rigpix.com/yaesu/ft5800h.htm"
-  },
-  {
-    "model": "FT-5800M",
-    "url": "https://www.rigpix.com/yaesu/ft5800m.htm"
-  },
-  {
-    "model": "FT-6200",
-    "url": "https://www.rigpix.com/yaesu/ft6200.htm"
-  },
-  {
-    "model": "FT-7100M",
-    "url": "https://www.rigpix.com/yaesu/ft7100m.htm"
-  },
-  {
-    "model": "FT-7200",
-    "url": "https://www.rigpix.com/yaesu/ft7200.htm"
-  },
-  {
-    "model": "FT-7400H",
-    "url": "https://www.rigpix.com/yaesu/ft7400h.htm"
-  },
-  {
-    "model": "FT-7800",
-    "url": "https://www.rigpix.com/yaesu/ft7800_older.htm"
-  },
-  {
-    "model": "FT-7800R(E)",
-    "url": "https://www.rigpix.com/yaesu/ft7800re.htm"
-  },
-  {
-    "model": "FT-7900E",
-    "url": "https://www.rigpix.com/yaesu/ft7900e.htm"
-  },
-  {
-    "model": "FT-7900R",
-    "url": "https://www.rigpix.com/yaesu/ft7900r.htm"
-  },
-  {
-    "model": "FT-8000R",
-    "url": "https://www.rigpix.com/yaesu/ft8000r.htm"
-  },
-  {
-    "model": "FT-8100",
-    "url": "https://www.rigpix.com/yaesu/ft8100.htm"
-  },
-  {
-    "model": "FT-8100R",
-    "url": "https://www.rigpix.com/yaesu/ft8100r.htm"
-  },
-  {
-    "model": "FT-8500",
-    "url": "https://www.rigpix.com/yaesu/ft8500.htm"
-  },
-  {
-    "model": "FT-8800R",
-    "url": "https://www.rigpix.com/yaesu/ft8800r.htm"
-  },
-  {
-    "model": "FTM-10R(E)",
-    "url": "https://www.rigpix.com/yaesu/ftm10r.htm"
-  },
-  {
-    "model": "FTM-100DE",
-    "url": "https://www.rigpix.com/yaesu/ftm100de.htm"
-  },
-  {
-    "model": "FTM-100DR",
-    "url": "https://www.rigpix.com/yaesu/ftm100dr.htm"
-  },
-  {
-    "model": "FTM-150E ASP",
-    "url": "https://www.rigpix.com/yaesu/ftm150easp.htm"
-  },
-  {
-    "model": "FTM-150R ASP",
-    "url": "https://www.rigpix.com/yaesu/ftm150rasp.htm"
-  },
-  {
-    "model": "FTM-200DE",
-    "url": "https://www.rigpix.com/yaesu/ftm200de.htm"
-  },
-  {
-    "model": "FTM-200DR",
-    "url": "https://www.rigpix.com/yaesu/ftm200dr.htm"
-  },
-  {
-    "model": "FTM-300DE",
-    "url": "https://www.rigpix.com/yaesu/ftm300de.htm"
-  },
-  {
-    "model": "FTM-300DR",
-    "url": "https://www.rigpix.com/yaesu/ftm300dr.htm"
-  },
-  {
-    "model": "FTM-350R",
-    "url": "https://www.rigpix.com/yaesu/ftm350.htm"
-  },
-  {
-    "model": "FTM-400DE",
-    "url": "https://www.rigpix.com/yaesu/ftm400de.htm"
-  },
-  {
-    "model": "FTM-400DR",
-    "url": "https://www.rigpix.com/yaesu/ftm400dr.htm"
-  },
-  {
-    "model": "FTM-400XDE",
-    "url": "https://www.rigpix.com/yaesu/ftm400xde.htm"
-  },
-  {
-    "model": "FTM-400XDR",
-    "url": "https://www.rigpix.com/yaesu/ftm400xdr.htm"
-  },
-  {
-    "model": "FTM-500DE",
-    "url": "https://www.rigpix.com/yaesu/ftm500de.htm"
-  },
-  {
-    "model": "FTM-500DR",
-    "url": "https://www.rigpix.com/yaesu/ftm500dr.htm"
-  },
-  {
-    "model": "FTM-510DE ASP",
-    "url": "https://www.rigpix.com/yaesu/ftm510deasp.htm"
-  },
-  {
-    "model": "FTM-510DR ASP",
-    "url": "https://www.rigpix.com/yaesu/ftm510drasp.htm"
-  },
-  {
-    "model": "FTM-3100E",
-    "url": "https://www.rigpix.com/yaesu/ftm3100e.htm"
-  },
-  {
-    "model": "FTM-3100R",
-    "url": "https://www.rigpix.com/yaesu/ftm3100r.htm"
-  },
-  {
-    "model": "FTM-3200DE",
-    "url": "https://www.rigpix.com/yaesu/ftm3200de.htm"
-  },
-  {
-    "model": "FTM-3200DR",
-    "url": "https://www.rigpix.com/yaesu/ftm3200dr.htm"
-  },
-  {
-    "model": "FTM-6000E",
-    "url": "https://www.rigpix.com/yaesu/ftm6000e.htm"
-  },
-  {
-    "model": "FTM-6000R",
-    "url": "https://www.rigpix.com/yaesu/ftm6000r.htm"
-  },
-  {
-    "model": "Sigmasizer 200R",
-    "url": "https://www.rigpix.com/yaesu/sigmasizer200r.htm"
-  },
-  {
-    "model": "FT-220",
-    "url": "https://www.rigpix.com/yaesu/ft220.htm"
-  },
-  {
-    "model": "FT-221",
-    "url": "https://www.rigpix.com/yaesu/ft221.htm"
-  },
-  {
-    "model": "FT-221R",
-    "url": "https://www.rigpix.com/yaesu/ft221r.htm"
-  },
-  {
-    "model": "FT-225R",
-    "url": "https://www.rigpix.com/yaesu/ft225r.htm"
-  },
-  {
-    "model": "FT-225RD",
-    "url": "https://www.rigpix.com/yaesu/ft225rd.htm"
-  },
-  {
-    "model": "FT-620",
-    "url": "https://www.rigpix.com/yaesu/ft620.htm"
-  },
-  {
-    "model": "FT-620B",
-    "url": "https://www.rigpix.com/yaesu/ft620b.htm"
-  },
-  {
-    "model": "FT-625D",
-    "url": "https://www.rigpix.com/yaesu/ft625d.htm"
-  },
-  {
-    "model": "FT-625R",
-    "url": "https://www.rigpix.com/yaesu/ft625r.htm"
-  },
-  {
-    "model": "FT-625RD",
-    "url": "https://www.rigpix.com/yaesu/ft625rd.htm"
-  },
-  {
-    "model": "FT-726R",
-    "url": "https://www.rigpix.com/yaesu/ft726r.htm"
-  },
-  {
-    "model": "FT-736MX",
-    "url": "https://www.rigpix.com/yaesu/ft736mx.htm"
-  },
-  {
-    "model": "FT-736R",
-    "url": "https://www.rigpix.com/yaesu/ft736r.htm"
-  },
-  {
-    "model": "FT-One",
-    "url": "https://www.rigpix.com/yaesu/ftone.htm"
-  },
-  {
-    "model": "FT-7",
-    "url": "https://www.rigpix.com/yaesu/ft7.htm"
-  },
-  {
-    "model": "FT-7B",
-    "url": "https://www.rigpix.com/yaesu/ft7b.htm"
-  },
-  {
-    "model": "FT-50",
-    "url": "https://www.rigpix.com/yaesu/ft50.htm"
-  },
-  {
-    "model": "FT-75",
-    "url": "https://www.rigpix.com/yaesu/ft75.htm"
-  },
-  {
-    "model": "FT-75B",
-    "url": "https://www.rigpix.com/yaesu/ft75b.htm"
-  },
-  {
-    "model": "FT-77",
-    "url": "https://www.rigpix.com/yaesu/ft77.htm"
-  },
-  {
-    "model": "FT-100",
-    "url": "https://www.rigpix.com/yaesu/ft100older.htm"
-  },
-  {
-    "model": "FT-100",
-    "url": "https://www.rigpix.com/yaesu/ft100.htm"
-  },
-  {
-    "model": "FT-100D",
-    "url": "https://www.rigpix.com/yaesu/ft100d.htm"
-  },
-  {
-    "model": "FT-101",
-    "url": "https://www.rigpix.com/yaesu/ft101.htm"
-  },
-  {
-    "model": "FT-101B",
-    "url": "https://www.rigpix.com/yaesu/ft101b.htm"
-  },
-  {
-    "model": "FT-101E",
-    "url": "https://www.rigpix.com/yaesu/ft101e.htm"
-  },
-  {
-    "model": "FT-101EE",
-    "url": "https://www.rigpix.com/yaesu/ft101ee.htm"
-  },
-  {
-    "model": "FT-101FE",
-    "url": "https://www.rigpix.com/yaesu/ft101fe.htm"
-  },
-  {
-    "model": "FT-101FX",
-    "url": "https://www.rigpix.com/yaesu/ft101fx.htm"
-  },
-  {
-    "model": "FT-101Z",
-    "url": "https://www.rigpix.com/yaesu/ft101z.htm"
-  },
-  {
-    "model": "FT-101ZD",
-    "url": "https://www.rigpix.com/yaesu/ft101zd.htm"
-  },
-  {
-    "model": "FT-101ZD",
-    "url": "https://www.rigpix.com/yaesu/ft101zdmk1.htm"
-  },
-  {
-    "model": "FT-101ZD",
-    "url": "https://www.rigpix.com/yaesu/ft101zdmk2.htm"
-  },
-  {
-    "model": "FT-101ZD",
-    "url": "https://www.rigpix.com/yaesu/ft101zdmk3.htm"
-  },
-  {
-    "model": "FT-102",
-    "url": "https://www.rigpix.com/yaesu/ft102.htm"
-  },
-  {
-    "model": "FT-107M",
-    "url": "https://www.rigpix.com/yaesu/ft107m.htm"
-  },
-  {
-    "model": "FT-107SM",
-    "url": "https://www.rigpix.com/yaesu/ft107sm.htm"
-  },
-  {
-    "model": "FT-200",
-    "url": "https://www.rigpix.com/yaesu/ft200.htm"
-  },
-  {
-    "model": "FT-201",
-    "url": "https://www.rigpix.com/yaesu/ft201.htm"
-  },
-  {
-    "model": "FT-201S",
-    "url": "https://www.rigpix.com/yaesu/ft201s.htm"
-  },
-  {
-    "model": "FT-301",
-    "url": "https://www.rigpix.com/yaesu/ft301.htm"
-  },
-  {
-    "model": "FT-301D",
-    "url": "https://www.rigpix.com/yaesu/ft301d.htm"
-  },
-  {
-    "model": "FT-301S",
-    "url": "https://www.rigpix.com/yaesu/ft301s.htm"
-  },
-  {
-    "model": "FT-301SD",
-    "url": "https://www.rigpix.com/yaesu/ft301sd.htm"
-  },
-  {
-    "model": "FT-401B",
-    "url": "https://www.rigpix.com/yaesu/ft401b.htm"
-  },
-  {
-    "model": "FT-410",
-    "url": "https://www.rigpix.com/yaesu/ft410.htm"
-  },
-  {
-    "model": "FT-450",
-    "url": "https://www.rigpix.com/yaesu/ft450.htm"
-  },
-  {
-    "model": "FT-450D",
-    "url": "https://www.rigpix.com/yaesu/ft450d.htm"
-  },
-  {
-    "model": "FT-501",
-    "url": "https://www.rigpix.com/yaesu/ft501.htm"
-  },
-  {
-    "model": "FT-600",
-    "url": "https://www.rigpix.com/yaesu/ft600.htm"
-  },
-  {
-    "model": "FT-650",
-    "url": "https://www.rigpix.com/yaesu/ft650.htm"
-  },
-  {
-    "model": "FT-655",
-    "url": "https://www.rigpix.com/yaesu/ft655.htm"
-  },
-  {
-    "model": "FT-655S",
-    "url": "https://www.rigpix.com/yaesu/ft655s.htm"
-  },
-  {
-    "model": "FT-707",
-    "url": "https://www.rigpix.com/yaesu/ft707.htm"
-  },
-  {
-    "model": "FT-707S",
-    "url": "https://www.rigpix.com/yaesu/ft707s.htm"
-  },
-  {
-    "model": "FT-710",
-    "url": "https://www.rigpix.com/yaesu/ft710aess.htm"
-  },
-  {
-    "model": "FT-747GX",
-    "url": "https://www.rigpix.com/yaesu/ft747gx.htm"
-  },
-  {
-    "model": "FT-747SX",
-    "url": "https://www.rigpix.com/yaesu/ft747sx.htm"
-  },
-  {
-    "model": "FT-757GX",
-    "url": "https://www.rigpix.com/yaesu/ft757gx.htm"
-  },
-  {
-    "model": "FT-757GXII",
-    "url": "https://www.rigpix.com/yaesu/ft757gxii.htm"
-  },
-  {
-    "model": "FT-767GX",
-    "url": "https://www.rigpix.com/yaesu/ft767gx.htm"
-  },
-  {
-    "model": "FT-840",
-    "url": "https://www.rigpix.com/yaesu/ft840.htm"
-  },
-  {
-    "model": "FT-847",
-    "url": "https://www.rigpix.com/yaesu/ft847.htm"
-  },
-  {
-    "model": "FT-857",
-    "url": "https://www.rigpix.com/yaesu/ft857.htm"
-  },
-  {
-    "model": "FT-857D",
-    "url": "https://www.rigpix.com/yaesu/ft857d.htm"
-  },
-  {
-    "model": "FT-890",
-    "url": "https://www.rigpix.com/yaesu/ft890.htm"
-  },
-  {
-    "model": "FT-891",
-    "url": "https://www.rigpix.com/yaesu/ft891.htm"
-  },
-  {
-    "model": "FT-897",
-    "url": "https://www.rigpix.com/yaesu/ft897.htm"
-  },
-  {
-    "model": "FT-897D",
-    "url": "https://www.rigpix.com/yaesu/ft897d.htm"
-  },
-  {
-    "model": "FT-900",
-    "url": "https://www.rigpix.com/yaesu/ft900.htm"
-  },
-  {
-    "model": "FT-901D",
-    "url": "https://www.rigpix.com/yaesu/ft901d.htm"
-  },
-  {
-    "model": "FT-901DE",
-    "url": "https://www.rigpix.com/yaesu/ft901de.htm"
-  },
-  {
-    "model": "FT-901DM",
-    "url": "https://www.rigpix.com/yaesu/ft901dm.htm"
-  },
-  {
-    "model": "FT-901SD",
-    "url": "https://www.rigpix.com/yaesu/ft901sd.htm"
-  },
-  {
-    "model": "FT-902D",
-    "url": "https://www.rigpix.com/yaesu/ft902d.htm"
-  },
-  {
-    "model": "FT-902DM",
-    "url": "https://www.rigpix.com/yaesu/ft902dm.htm"
-  },
-  {
-    "model": "FT-920",
-    "url": "https://www.rigpix.com/yaesu/ft920.htm"
-  },
-  {
-    "model": "FT-950",
-    "url": "https://www.rigpix.com/yaesu/ft950.htm"
-  },
-  {
-    "model": "FT-980",
-    "url": "https://www.rigpix.com/yaesu/ft980.htm"
-  },
-  {
-    "model": "FT-990",
-    "url": "https://www.rigpix.com/yaesu/ft990.htm"
-  },
-  {
-    "model": "FT-991",
-    "url": "https://www.rigpix.com/yaesu/ft991.htm"
-  },
-  {
-    "model": "FT-991A",
-    "url": "https://www.rigpix.com/yaesu/ft991a.htm"
-  },
-  {
-    "model": "FT-1000(D)",
-    "url": "https://www.rigpix.com/yaesu/ft1000d.htm"
-  },
-  {
-    "model": "FT-1000MP",
-    "url": "https://www.rigpix.com/yaesu/ft1000mp.htm"
-  },
-  {
-    "model": "FT-1000MP Mark V",
-    "url": "https://www.rigpix.com/yaesu/ft1000mpmarkv.htm"
-  },
-  {
-    "model": "FT-1000MP Mark V Field",
-    "url": "https://www.rigpix.com/yaesu/ft1000mpmarkvfield.htm"
-  },
-  {
-    "model": "FT-2000",
-    "url": "https://www.rigpix.com/yaesu/ft2000.htm"
-  },
-  {
-    "model": "FT-2000D",
-    "url": "https://www.rigpix.com/yaesu/ft2000d.htm"
-  },
-  {
-    "model": "FT-8900R",
-    "url": "https://www.rigpix.com/yaesu/ft8900r.htm"
-  },
-  {
-    "model": "FTX-1 Optima",
-    "url": "https://www.rigpix.com/yaesu/ftx1optima.htm"
-  }
-]
+{
+  "FR-50": "https://www.rigpix.com/yaesu/fr50.htm",
+  "FR-50B": "https://www.rigpix.com/yaesu/fr50b.htm",
+  "FR-100B": "https://www.rigpix.com/yaesu/fr100b.htm",
+  "FR-101": "https://www.rigpix.com/yaesu/fr101.htm",
+  "FR-101 Digital": "https://www.rigpix.com/yaesu/fr101d.htm",
+  "FR-101S": "https://www.rigpix.com/yaesu/fr101s.htm",
+  "FRG-7": "https://www.rigpix.com/yaesu/frg7.htm",
+  "FRG-100": "https://www.rigpix.com/yaesu/frg100.htm",
+  "FRG-965": "https://www.rigpix.com/yaesu/frg965.htm",
+  "FRG-7000": "https://www.rigpix.com/yaesu/frg7000.htm",
+  "FRG-7700": "https://www.rigpix.com/yaesu/frg7700.htm",
+  "FRG-8800": "https://www.rigpix.com/yaesu/frg8800.htm",
+  "FRG-9600": "https://www.rigpix.com/yaesu/frg9600.htm",
+  "VR-120": "https://www.rigpix.com/yaesu/vr120.htm",
+  "VR-120D": "https://www.rigpix.com/yaesu/vr120d.htm",
+  "VR-160": "https://www.rigpix.com/yaesu/vr160.htm",
+  "VR-500": "https://www.rigpix.com/yaesu/vr500.htm",
+  "VR-5000": "https://www.rigpix.com/yaesu/vr5000.htm",
+  "FL-50": "https://www.rigpix.com/yaesu/fl50.htm",
+  "FL-50B": "https://www.rigpix.com/yaesu/fl50b.htm",
+  "FL-100B": "https://www.rigpix.com/yaesu/fl100b.htm",
+  "FL-101": "https://www.rigpix.com/yaesu/fl101.htm",
+  "FT-1DE": "https://www.rigpix.com/yaesu/ft1de.htm",
+  "FT-1DR": "https://www.rigpix.com/yaesu/ft1dr.htm",
+  "FT-1XDE": "https://www.rigpix.com/yaesu/ft1xde.htm",
+  "FT-1XDR": "https://www.rigpix.com/yaesu/ft1xdr.htm",
+  "FT-2DE": "https://www.rigpix.com/yaesu/ft2de.htm",
+  "FT-2DR": "https://www.rigpix.com/yaesu/ft2dr.htm",
+  "FT-3DE": "https://www.rigpix.com/yaesu/ft3de.htm",
+  "FT-3DR": "https://www.rigpix.com/yaesu/ft3dr.htm",
+  "FT-4VE": "https://www.rigpix.com/yaesu/ft4ve.htm",
+  "FT-4VR": "https://www.rigpix.com/yaesu/ft4vr.htm",
+  "FT-4XE": "https://www.rigpix.com/yaesu/ft4xe.htm",
+  "FT-4XR": "https://www.rigpix.com/yaesu/ft4xr.htm",
+  "FT-5DE": "https://www.rigpix.com/yaesu/ft5de.htm",
+  "FT-5DR": "https://www.rigpix.com/yaesu/ft5dr.htm",
+  "FT-10R": "https://www.rigpix.com/yaesu/ft10r.htm",
+  "FT-11R": "https://www.rigpix.com/yaesu/ft11r.htm",
+  "FT-23R": "https://www.rigpix.com/yaesu/ft23r.htm",
+  "FT-25E": "https://www.rigpix.com/yaesu/ft25e.htm",
+  "FT-25R": "https://www.rigpix.com/yaesu/ft25r.htm",
+  "FT-26": "https://www.rigpix.com/yaesu/ft26.htm",
+  "FT-33R": "https://www.rigpix.com/yaesu/ft33r.htm",
+  "FT-40R": "https://www.rigpix.com/yaesu/ft40r.htm",
+  "FT-41R": "https://www.rigpix.com/yaesu/ft41r.htm",
+  "FT-50R": "https://www.rigpix.com/yaesu/ft50r.htm",
+  "FT-51R": "https://www.rigpix.com/yaesu/ft51r.htm",
+  "FT-60R": "https://www.rigpix.com/yaesu/ft60r.htm",
+  "FT-65E": "https://www.rigpix.com/yaesu/ft65e.htm",
+  "FT-65R": "https://www.rigpix.com/yaesu/ft65r.htm",
+  "FT-70DE": "https://www.rigpix.com/yaesu/ft70de.htm",
+  "FT-70DR": "https://www.rigpix.com/yaesu/ft70dr.htm",
+  "FT-73R": "https://www.rigpix.com/yaesu/ft73r.htm",
+  "FT-76": "https://www.rigpix.com/yaesu/ft76.htm",
+  "FT-104": "https://www.rigpix.com/yaesu/ft104.htm",
+  "FT-109RH": "https://www.rigpix.com/yaesu/ft109rh.htm",
+  "FT-202R": "https://www.rigpix.com/yaesu/ft202r.htm",
+  "FT-203R": "https://www.rigpix.com/yaesu/ft203r.htm",
+  "FT-204": "https://www.rigpix.com/yaesu/ft204.htm",
+  "FT-207R": "https://www.rigpix.com/yaesu/ft207r.htm",
+  "FT-208R": "https://www.rigpix.com/yaesu/ft208r.htm",
+  "FT-209R": "https://www.rigpix.com/yaesu/ft209r.htm",
+  "FT-209RH": "https://www.rigpix.com/yaesu/ft209rh.htm",
+  "FT-250R(E)": "https://www.rigpix.com/yaesu/ft250r.htm",
+  "FT-252": "https://www.rigpix.com/yaesu/ft252.htm",
+  "FT-257": "https://www.rigpix.com/yaesu/ft257.htm",
+  "FT-270R(E)": "https://www.rigpix.com/yaesu/ft270r_ht.htm",
+  "FT-290": "https://www.rigpix.com/yaesu/ft290.htm",
+  "FT-290R": "https://www.rigpix.com/yaesu/ft290r.htm",
+  "FT-290RII": "https://www.rigpix.com/yaesu/ft290rii.htm",
+  "FT-404R": "https://www.rigpix.com/yaesu/ft404r.htm",
+  "FT-411": "https://www.rigpix.com/yaesu/ft411.htm",
+  "FT-411E": "https://www.rigpix.com/yaesu/ft411e.htm",
+  "FT-411MKII": "https://www.rigpix.com/yaesu/ft411mkii.htm",
+  "FT-415": "https://www.rigpix.com/yaesu/ft415.htm",
+  "FT-416": "https://www.rigpix.com/yaesu/ft416.htm",
+  "FT-470": "https://www.rigpix.com/yaesu/ft470.htm",
+  "FT-530": "https://www.rigpix.com/yaesu/ft530.htm",
+  "FT-690R": "https://www.rigpix.com/yaesu/ft690r.htm",
+  "FT-690RII": "https://www.rigpix.com/yaesu/ft690rii.htm",
+  "FT-703R": "https://www.rigpix.com/yaesu/ft703r.htm",
+  "FT-708R": "https://www.rigpix.com/yaesu/ft708r.htm",
+  "FT-709R": "https://www.rigpix.com/yaesu/ft709r.htm",
+  "FT-727R": "https://www.rigpix.com/yaesu/ft727r.htm",
+  "FT-790R": "https://www.rigpix.com/yaesu/ft790r.htm",
+  "FT-790RII": "https://www.rigpix.com/yaesu/ft790rii.htm",
+  "FT-811": "https://www.rigpix.com/yaesu/ft811.htm",
+  "FT-815": "https://www.rigpix.com/yaesu/ft815.htm",
+  "FT-816": "https://www.rigpix.com/yaesu/ft816.htm",
+  "FT-817": "https://www.rigpix.com/yaesu/ft817.htm",
+  "FT-817ND": "https://www.rigpix.com/yaesu/ft817nd.htm",
+  "FT-818ND": "https://www.rigpix.com/yaesu/ft818.htm",
+  "FT-911": "https://www.rigpix.com/yaesu/ft911.htm",
+  "FT-2303": "https://www.rigpix.com/yaesu/ft2303r.htm",
+  "FTX-1 Field": "https://www.rigpix.com/yaesu/ftx1f.htm",
+  "VX-1R": "https://www.rigpix.com/yaesu/vx1r.htm",
+  "VX-2R": "https://www.rigpix.com/yaesu/vx2r.htm",
+  "VX-3E": "https://www.rigpix.com/yaesu/vx3e.htm",
+  "VX-3R": "https://www.rigpix.com/yaesu/vx3r.htm",
+  "VX-5R": "https://www.rigpix.com/yaesu/vx5r.htm",
+  "VX-6E": "https://www.rigpix.com/yaesu/vx6e.htm",
+  "VX-6R": "https://www.rigpix.com/yaesu/vx6r.htm",
+  "VX-7R": "https://www.rigpix.com/yaesu/vx7r.htm",
+  "VX-8DE": "https://www.rigpix.com/yaesu/vx8de.htm",
+  "VX-8DR": "https://www.rigpix.com/yaesu/vx8dr.htm",
+  "VX-8E": "https://www.rigpix.com/yaesu/vx8e.htm",
+  "VX-8GE": "https://www.rigpix.com/yaesu/vx8ge.htm",
+  "VX-8GR": "https://www.rigpix.com/yaesu/vx8gr.htm",
+  "VX-8R": "https://www.rigpix.com/yaesu/vx8r.htm",
+  "VX-110": "https://www.rigpix.com/yaesu/vx110.htm",
+  "VX-120": "https://www.rigpix.com/yaesu/vx120.htm",
+  "VX-150": "https://www.rigpix.com/yaesu/vx150.htm",
+  "VX-170": "https://www.rigpix.com/yaesu/vx170.htm",
+  "VX-177": "https://www.rigpix.com/yaesu/vx177.htm",
+  "CPU-2500R": "https://www.rigpix.com/yaesu/cpu2500r.htm",
+  "FT-2F": "https://www.rigpix.com/yaesu/ft2f.htm",
+  "FT-2 Auto": "https://www.rigpix.com/yaesu/ft2auto.htm",
+  "FT-90R": "https://www.rigpix.com/yaesu/ft90r.htm",
+  "FT-127": "https://www.rigpix.com/yaesu/ft127.htm",
+  "FT-127RA": "https://www.rigpix.com/yaesu/ft127ra.htm",
+  "FT-211RH": "https://www.rigpix.com/yaesu/ft211rh.htm",
+  "FT-212RH": "https://www.rigpix.com/yaesu/ft212rh.htm",
+  "FT-215": "https://www.rigpix.com/yaesu/ft215.htm",
+  "FT-215M": "https://www.rigpix.com/yaesu/ft215m.htm",
+  "FT-215H": "https://www.rigpix.com/yaesu/ft215h.htm",
+  "FT-224": "https://www.rigpix.com/yaesu/ft224.htm",
+  "FT-227": "https://www.rigpix.com/yaesu/ft227.htm",
+  "FT-227R": "https://www.rigpix.com/yaesu/ft227r.htm",
+  "FT-227RA": "https://www.rigpix.com/yaesu/ft227ra.htm",
+  "FT-227RB": "https://www.rigpix.com/yaesu/ft227rb.htm",
+  "FT-230R": "https://www.rigpix.com/yaesu/ft230r.htm",
+  "FT-270R": "https://www.rigpix.com/yaesu/ft270r.htm",
+  "FT-270RH": "https://www.rigpix.com/yaesu/ft270rh.htm",
+  "FT-311RM": "https://www.rigpix.com/yaesu/ft311rm.htm",
+  "FT-480R": "https://www.rigpix.com/yaesu/ft480r.htm",
+  "FT-627A": "https://www.rigpix.com/yaesu/ft627a.htm",
+  "FT-627RA": "https://www.rigpix.com/yaesu/ft627ra.htm",
+  "FT-680R": "https://www.rigpix.com/yaesu/ft680r.htm",
+  "FT-711RH": "https://www.rigpix.com/yaesu/ft711rh.htm",
+  "FT-712RH": "https://www.rigpix.com/yaesu/ft712rh.htm",
+  "FT-715": "https://www.rigpix.com/yaesu/ft715.htm",
+  "FT-715M": "https://www.rigpix.com/yaesu/ft715m.htm",
+  "FT-715H": "https://www.rigpix.com/yaesu/ft715h.htm",
+  "FT-720R": "https://www.rigpix.com/yaesu/ft720r.htm",
+  "FT-730R": "https://www.rigpix.com/yaesu/ft730r.htm",
+  "FT-770RH": "https://www.rigpix.com/yaesu/ft770rh.htm",
+  "FT-780R": "https://www.rigpix.com/yaesu/ft780r.htm",
+  "FT-912R": "https://www.rigpix.com/yaesu/ft912r.htm",
+  "FT-1500M": "https://www.rigpix.com/yaesu/ft1500m.htm",
+  "FT-1802M(E)": "https://www.rigpix.com/yaesu/ft1802e.htm",
+  "FT-1900R(E)": "https://www.rigpix.com/yaesu/ft1900r.htm",
+  "FT-2200": "https://www.rigpix.com/yaesu/ft2200.htm",
+  "FT-2311R": "https://www.rigpix.com/yaesu/ft2311r.htm",
+  "FT-2312": "https://www.rigpix.com/yaesu/ft2312r.htm",
+  "FT-2400H": "https://www.rigpix.com/yaesu/ft2400.htm",
+  "FT-2500M": "https://www.rigpix.com/yaesu/ft2500m.htm",
+  "FT-2600M": "https://www.rigpix.com/yaesu/ft2600m.htm",
+  "FT-2700R": "https://www.rigpix.com/yaesu/ft2700r.htm",
+  "FT-2700RH": "https://www.rigpix.com/yaesu/ft2700rh.htm",
+  "FT-2800M": "https://www.rigpix.com/yaesu/ft2800m.htm",
+  "FT-2900R": "https://www.rigpix.com/yaesu/ft2900r.htm",
+  "FT-2980E": "https://www.rigpix.com/yaesu/ft2980e.htm",
+  "FT-2980R": "https://www.rigpix.com/yaesu/ft2980r.htm",
+  "FT-3000M": "https://www.rigpix.com/yaesu/ft3000m.htm",
+  "FT-3165E ASP": "https://www.rigpix.com/yaesu/ft3165easp.htm",
+  "FT-3165R ASP": "https://www.rigpix.com/yaesu/ft3165rasp.htm",
+  "FT-3185E ASP": "https://www.rigpix.com/yaesu/ft3185easp.htm",
+  "FT-3185R ASP": "https://www.rigpix.com/yaesu/ft3185rasp.htm",
+  "FT-3700": "https://www.rigpix.com/yaesu/ft3700.htm",
+  "FT-3700H": "https://www.rigpix.com/yaesu/ft3700h.htm",
+  "FT-3800": "https://www.rigpix.com/yaesu/ft3800.htm",
+  "FT-3800H": "https://www.rigpix.com/yaesu/ft3800h.htm",
+  "FT-3900": "https://www.rigpix.com/yaesu/ft3900.htm",
+  "FT-3900H": "https://www.rigpix.com/yaesu/ft3900h.htm",
+  "FT-4600": "https://www.rigpix.com/yaesu/ft4600.htm",
+  "FT-4600H": "https://www.rigpix.com/yaesu/ft4600h.htm",
+  "FT-4600M": "https://www.rigpix.com/yaesu/ft4600m.htm",
+  "FT-4700RH": "https://www.rigpix.com/yaesu/ft4700rh.htm",
+  "FT-4800": "https://www.rigpix.com/yaesu/ft4800.htm",
+  "FT-4800H": "https://www.rigpix.com/yaesu/ft4800h.htm",
+  "FT-4800M": "https://www.rigpix.com/yaesu/ft4800m.htm",
+  "FT-4900": "https://www.rigpix.com/yaesu/ft4900.htm",
+  "FT-4900H": "https://www.rigpix.com/yaesu/ft4900h.htm",
+  "FT-4900M": "https://www.rigpix.com/yaesu/ft4900m.htm",
+  "FT-5100": "https://www.rigpix.com/yaesu/ft5100.htm",
+  "FT-5200": "https://www.rigpix.com/yaesu/ft5200.htm",
+  "FT-5800": "https://www.rigpix.com/yaesu/ft5800.htm",
+  "FT-5800H": "https://www.rigpix.com/yaesu/ft5800h.htm",
+  "FT-5800M": "https://www.rigpix.com/yaesu/ft5800m.htm",
+  "FT-6200": "https://www.rigpix.com/yaesu/ft6200.htm",
+  "FT-7100M": "https://www.rigpix.com/yaesu/ft7100m.htm",
+  "FT-7200": "https://www.rigpix.com/yaesu/ft7200.htm",
+  "FT-7400H": "https://www.rigpix.com/yaesu/ft7400h.htm",
+  "FT-7800": "https://www.rigpix.com/yaesu/ft7800_older.htm",
+  "FT-7800R(E)": "https://www.rigpix.com/yaesu/ft7800re.htm",
+  "FT-7900E": "https://www.rigpix.com/yaesu/ft7900e.htm",
+  "FT-7900R": "https://www.rigpix.com/yaesu/ft7900r.htm",
+  "FT-8000R": "https://www.rigpix.com/yaesu/ft8000r.htm",
+  "FT-8100": "https://www.rigpix.com/yaesu/ft8100.htm",
+  "FT-8100R": "https://www.rigpix.com/yaesu/ft8100r.htm",
+  "FT-8500": "https://www.rigpix.com/yaesu/ft8500.htm",
+  "FT-8800R": "https://www.rigpix.com/yaesu/ft8800r.htm",
+  "FTM-10R(E)": "https://www.rigpix.com/yaesu/ftm10r.htm",
+  "FTM-100DE": "https://www.rigpix.com/yaesu/ftm100de.htm",
+  "FTM-100DR": "https://www.rigpix.com/yaesu/ftm100dr.htm",
+  "FTM-150E ASP": "https://www.rigpix.com/yaesu/ftm150easp.htm",
+  "FTM-150R ASP": "https://www.rigpix.com/yaesu/ftm150rasp.htm",
+  "FTM-200DE": "https://www.rigpix.com/yaesu/ftm200de.htm",
+  "FTM-200DR": "https://www.rigpix.com/yaesu/ftm200dr.htm",
+  "FTM-300DE": "https://www.rigpix.com/yaesu/ftm300de.htm",
+  "FTM-300DR": "https://www.rigpix.com/yaesu/ftm300dr.htm",
+  "FTM-350R": "https://www.rigpix.com/yaesu/ftm350.htm",
+  "FTM-400DE": "https://www.rigpix.com/yaesu/ftm400de.htm",
+  "FTM-400DR": "https://www.rigpix.com/yaesu/ftm400dr.htm",
+  "FTM-400XDE": "https://www.rigpix.com/yaesu/ftm400xde.htm",
+  "FTM-400XDR": "https://www.rigpix.com/yaesu/ftm400xdr.htm",
+  "FTM-500DE": "https://www.rigpix.com/yaesu/ftm500de.htm",
+  "FTM-500DR": "https://www.rigpix.com/yaesu/ftm500dr.htm",
+  "FTM-510DE ASP": "https://www.rigpix.com/yaesu/ftm510deasp.htm",
+  "FTM-510DR ASP": "https://www.rigpix.com/yaesu/ftm510drasp.htm",
+  "FTM-3100E": "https://www.rigpix.com/yaesu/ftm3100e.htm",
+  "FTM-3100R": "https://www.rigpix.com/yaesu/ftm3100r.htm",
+  "FTM-3200DE": "https://www.rigpix.com/yaesu/ftm3200de.htm",
+  "FTM-3200DR": "https://www.rigpix.com/yaesu/ftm3200dr.htm",
+  "FTM-6000E": "https://www.rigpix.com/yaesu/ftm6000e.htm",
+  "FTM-6000R": "https://www.rigpix.com/yaesu/ftm6000r.htm",
+  "Sigmasizer 200R": "https://www.rigpix.com/yaesu/sigmasizer200r.htm",
+  "FT-220": "https://www.rigpix.com/yaesu/ft220.htm",
+  "FT-221": "https://www.rigpix.com/yaesu/ft221.htm",
+  "FT-221R": "https://www.rigpix.com/yaesu/ft221r.htm",
+  "FT-225R": "https://www.rigpix.com/yaesu/ft225r.htm",
+  "FT-225RD": "https://www.rigpix.com/yaesu/ft225rd.htm",
+  "FT-620": "https://www.rigpix.com/yaesu/ft620.htm",
+  "FT-620B": "https://www.rigpix.com/yaesu/ft620b.htm",
+  "FT-625D": "https://www.rigpix.com/yaesu/ft625d.htm",
+  "FT-625R": "https://www.rigpix.com/yaesu/ft625r.htm",
+  "FT-625RD": "https://www.rigpix.com/yaesu/ft625rd.htm",
+  "FT-726R": "https://www.rigpix.com/yaesu/ft726r.htm",
+  "FT-736MX": "https://www.rigpix.com/yaesu/ft736mx.htm",
+  "FT-736R": "https://www.rigpix.com/yaesu/ft736r.htm",
+  "FT-One": "https://www.rigpix.com/yaesu/ftone.htm",
+  "FT-7": "https://www.rigpix.com/yaesu/ft7.htm",
+  "FT-7B": "https://www.rigpix.com/yaesu/ft7b.htm",
+  "FT-50": "https://www.rigpix.com/yaesu/ft50.htm",
+  "FT-75": "https://www.rigpix.com/yaesu/ft75.htm",
+  "FT-75B": "https://www.rigpix.com/yaesu/ft75b.htm",
+  "FT-77": "https://www.rigpix.com/yaesu/ft77.htm",
+  "FT-100": "https://www.rigpix.com/yaesu/ft100.htm",
+  "FT-100D": "https://www.rigpix.com/yaesu/ft100d.htm",
+  "FT-101": "https://www.rigpix.com/yaesu/ft101.htm",
+  "FT-101B": "https://www.rigpix.com/yaesu/ft101b.htm",
+  "FT-101E": "https://www.rigpix.com/yaesu/ft101e.htm",
+  "FT-101EE": "https://www.rigpix.com/yaesu/ft101ee.htm",
+  "FT-101FE": "https://www.rigpix.com/yaesu/ft101fe.htm",
+  "FT-101FX": "https://www.rigpix.com/yaesu/ft101fx.htm",
+  "FT-101Z": "https://www.rigpix.com/yaesu/ft101z.htm",
+  "FT-101ZD": "https://www.rigpix.com/yaesu/ft101zdmk3.htm",
+  "FT-102": "https://www.rigpix.com/yaesu/ft102.htm",
+  "FT-107M": "https://www.rigpix.com/yaesu/ft107m.htm",
+  "FT-107SM": "https://www.rigpix.com/yaesu/ft107sm.htm",
+  "FT-200": "https://www.rigpix.com/yaesu/ft200.htm",
+  "FT-201": "https://www.rigpix.com/yaesu/ft201.htm",
+  "FT-201S": "https://www.rigpix.com/yaesu/ft201s.htm",
+  "FT-301": "https://www.rigpix.com/yaesu/ft301.htm",
+  "FT-301D": "https://www.rigpix.com/yaesu/ft301d.htm",
+  "FT-301S": "https://www.rigpix.com/yaesu/ft301s.htm",
+  "FT-301SD": "https://www.rigpix.com/yaesu/ft301sd.htm",
+  "FT-401B": "https://www.rigpix.com/yaesu/ft401b.htm",
+  "FT-410": "https://www.rigpix.com/yaesu/ft410.htm",
+  "FT-450": "https://www.rigpix.com/yaesu/ft450.htm",
+  "FT-450D": "https://www.rigpix.com/yaesu/ft450d.htm",
+  "FT-501": "https://www.rigpix.com/yaesu/ft501.htm",
+  "FT-600": "https://www.rigpix.com/yaesu/ft600.htm",
+  "FT-650": "https://www.rigpix.com/yaesu/ft650.htm",
+  "FT-655": "https://www.rigpix.com/yaesu/ft655.htm",
+  "FT-655S": "https://www.rigpix.com/yaesu/ft655s.htm",
+  "FT-707": "https://www.rigpix.com/yaesu/ft707.htm",
+  "FT-707S": "https://www.rigpix.com/yaesu/ft707s.htm",
+  "FT-710": "https://www.rigpix.com/yaesu/ft710aess.htm",
+  "FT-747GX": "https://www.rigpix.com/yaesu/ft747gx.htm",
+  "FT-747SX": "https://www.rigpix.com/yaesu/ft747sx.htm",
+  "FT-757GX": "https://www.rigpix.com/yaesu/ft757gx.htm",
+  "FT-757GXII": "https://www.rigpix.com/yaesu/ft757gxii.htm",
+  "FT-767GX": "https://www.rigpix.com/yaesu/ft767gx.htm",
+  "FT-840": "https://www.rigpix.com/yaesu/ft840.htm",
+  "FT-847": "https://www.rigpix.com/yaesu/ft847.htm",
+  "FT-857": "https://www.rigpix.com/yaesu/ft857.htm",
+  "FT-857D": "https://www.rigpix.com/yaesu/ft857d.htm",
+  "FT-890": "https://www.rigpix.com/yaesu/ft890.htm",
+  "FT-891": "https://www.rigpix.com/yaesu/ft891.htm",
+  "FT-897": "https://www.rigpix.com/yaesu/ft897.htm",
+  "FT-897D": "https://www.rigpix.com/yaesu/ft897d.htm",
+  "FT-900": "https://www.rigpix.com/yaesu/ft900.htm",
+  "FT-901D": "https://www.rigpix.com/yaesu/ft901d.htm",
+  "FT-901DE": "https://www.rigpix.com/yaesu/ft901de.htm",
+  "FT-901DM": "https://www.rigpix.com/yaesu/ft901dm.htm",
+  "FT-901SD": "https://www.rigpix.com/yaesu/ft901sd.htm",
+  "FT-902D": "https://www.rigpix.com/yaesu/ft902d.htm",
+  "FT-902DM": "https://www.rigpix.com/yaesu/ft902dm.htm",
+  "FT-920": "https://www.rigpix.com/yaesu/ft920.htm",
+  "FT-950": "https://www.rigpix.com/yaesu/ft950.htm",
+  "FT-980": "https://www.rigpix.com/yaesu/ft980.htm",
+  "FT-990": "https://www.rigpix.com/yaesu/ft990.htm",
+  "FT-991": "https://www.rigpix.com/yaesu/ft991.htm",
+  "FT-991A": "https://www.rigpix.com/yaesu/ft991a.htm",
+  "FT-1000(D)": "https://www.rigpix.com/yaesu/ft1000d.htm",
+  "FT-1000MP": "https://www.rigpix.com/yaesu/ft1000mp.htm",
+  "FT-1000MP Mark V": "https://www.rigpix.com/yaesu/ft1000mpmarkv.htm",
+  "FT-1000MP Mark V Field": "https://www.rigpix.com/yaesu/ft1000mpmarkvfield.htm",
+  "FT-2000": "https://www.rigpix.com/yaesu/ft2000.htm",
+  "FT-2000D": "https://www.rigpix.com/yaesu/ft2000d.htm",
+  "FT-8900R": "https://www.rigpix.com/yaesu/ft8900r.htm",
+  "FTX-1 Optima": "https://www.rigpix.com/yaesu/ftx1optima.htm"
+}

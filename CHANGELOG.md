@@ -14,7 +14,10 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 ## [Unreleased]
 ### Added
 - New Zealand (`nz`) band chart.
+- Turkey (`tr`) band chart.
+- Thailand (`th`) band chart.
 - Updated US band chart with new 60m allocation.
+- Added Rigpix model files.
 
 ## [2024.7.2] - 2024-07-28
 ### Fixed
