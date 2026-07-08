@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-08T04:14:48.836207+00:00",
+    "last_updated": "2026-07-08T04:20:31.967473+00:00",
     "resources": {
         "bandcharts": {
             "v1": [
@@ -29,7 +29,7 @@
             "v1": [
                 {
                     "filename": "radios.1.json",
-                    "hash": "229f5e515a1d438544a3147f21dff23d"
+                    "hash": "8bd147920739a48b16f89d24b3bb0a45"
                 }
             ]
         },
