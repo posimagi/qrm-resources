@@ -1,0 +1,5 @@
+{
+	"yaesu": ["radios/yaesu_models.json", "Yaesu"],
+	"icom": ["radios/icom_models.json", "Icom"],
+	"kenwood": ["radios/kenwood_trio_models.json", "Kenwood"]	
+}

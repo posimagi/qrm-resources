@@ -1,0 +1,1958 @@
+[
+  {
+    "model": "IC-PCR100",
+    "url": "https://www.rigpix.com/icom/icpcr100.htm"
+  },
+  {
+    "model": "IC-PCR1000",
+    "url": "https://www.rigpix.com/icom/icpcr1000.htm"
+  },
+  {
+    "model": "IC-PCR1500",
+    "url": "https://www.rigpix.com/icom/icpcr1500.htm"
+  },
+  {
+    "model": "IC-PCR2500",
+    "url": "https://www.rigpix.com/icom/icpcr2500.htm"
+  },
+  {
+    "model": "IC-R1",
+    "url": "https://www.rigpix.com/icom/icr1.htm"
+  },
+  {
+    "model": "IC-R2",
+    "url": "https://www.rigpix.com/icom/icr2.htm"
+  },
+  {
+    "model": "IC-R3",
+    "url": "https://www.rigpix.com/icom/icr3.htm"
+  },
+  {
+    "model": "IC-R5",
+    "url": "https://www.rigpix.com/icom/icr5.htm"
+  },
+  {
+    "model": "IC-R6",
+    "url": "https://www.rigpix.com/icom/icr6.htm"
+  },
+  {
+    "model": "IC-R10",
+    "url": "https://www.rigpix.com/icom/icr10.htm"
+  },
+  {
+    "model": "IC-R15",
+    "url": "https://www.rigpix.com/icom/icr15.htm"
+  },
+  {
+    "model": "IC-R20",
+    "url": "https://www.rigpix.com/icom/icr20.htm"
+  },
+  {
+    "model": "IC-R30",
+    "url": "https://www.rigpix.com/icom/icr30.htm"
+  },
+  {
+    "model": "IC-R70",
+    "url": "https://www.rigpix.com/icom/icr70.htm"
+  },
+  {
+    "model": "IC-R71",
+    "url": "https://www.rigpix.com/icom/icr71.htm"
+  },
+  {
+    "model": "IC-R71A",
+    "url": "https://www.rigpix.com/icom/icr71a.htm"
+  },
+  {
+    "model": "IC-R71D",
+    "url": "https://www.rigpix.com/icom/icr71d.htm"
+  },
+  {
+    "model": "IC-R71E",
+    "url": "https://www.rigpix.com/icom/icr71e.htm"
+  },
+  {
+    "model": "IC-R72",
+    "url": "https://www.rigpix.com/icom/icr72.htm"
+  },
+  {
+    "model": "IC-R72DC",
+    "url": "https://www.rigpix.com/icom/icr72dc.htm"
+  },
+  {
+    "model": "IC-R75",
+    "url": "https://www.rigpix.com/icom/icr75.htm"
+  },
+  {
+    "model": "IC-R100",
+    "url": "https://www.rigpix.com/icom/icr100.htm"
+  },
+  {
+    "model": "IC-R1500",
+    "url": "https://www.rigpix.com/icom/icr1500.htm"
+  },
+  {
+    "model": "IC-R2500",
+    "url": "https://www.rigpix.com/icom/icr2500.htm"
+  },
+  {
+    "model": "IC-R7000",
+    "url": "https://www.rigpix.com/icom/icr7000.htm"
+  },
+  {
+    "model": "IC-R7100",
+    "url": "https://www.rigpix.com/icom/icr7100.htm"
+  },
+  {
+    "model": "IC-R8500",
+    "url": "https://www.rigpix.com/icom/icr8500.htm"
+  },
+  {
+    "model": "IC-R8600",
+    "url": "https://www.rigpix.com/icom/icr8600.htm"
+  },
+  {
+    "model": "IC-R9000",
+    "url": "https://www.rigpix.com/icom/icr9000.htm"
+  },
+  {
+    "model": "IC-R9000L",
+    "url": "https://www.rigpix.com/icom/icr9000l.htm"
+  },
+  {
+    "model": "IC-R9500",
+    "url": "https://www.rigpix.com/icom/icr9500.htm"
+  },
+  {
+    "model": "IC-RX7",
+    "url": "https://www.rigpix.com/icom/icrx7.htm"
+  },
+  {
+    "model": "IC-700R",
+    "url": "https://www.rigpix.com/icom/ic700r.htm"
+  },
+  {
+    "model": "IC-700T",
+    "url": "https://www.rigpix.com/icom/ic700t.htm"
+  },
+  {
+    "model": "IC-&#945;6 / IC-Alpha 6",
+    "url": "https://www.rigpix.com/icom/icalpha6.htm"
+  },
+  {
+    "model": "IC-&#945;6A / IC-Alpha 6A",
+    "url": "https://www.rigpix.com/icom/icalpha6a.htm"
+  },
+  {
+    "model": "IC-&#945;6E / IC-Alpha 6E",
+    "url": "https://www.rigpix.com/icom/icalpha6e.htm"
+  },
+  {
+    "model": "IC-&#916;1A / IC-Delta 1A",
+    "url": "https://www.rigpix.com/icom/icdelta1a.htm"
+  },
+  {
+    "model": "IC-&#916;1E / IC-Delta 1E",
+    "url": "https://www.rigpix.com/icom/icdelta1e.htm"
+  },
+  {
+    "model": "IC-E7",
+    "url": "https://www.rigpix.com/icom/ice7.htm"
+  },
+  {
+    "model": "IC-E80D",
+    "url": "https://www.rigpix.com/icom/ice80d.htm"
+  },
+  {
+    "model": "IC-E90",
+    "url": "https://www.rigpix.com/icom/ice90.htm"
+  },
+  {
+    "model": "IC-E91",
+    "url": "https://www.rigpix.com/icom/ice91.htm"
+  },
+  {
+    "model": "IC-E92D",
+    "url": "https://www.rigpix.com/icom/ice92d.htm"
+  },
+  {
+    "model": "IC-P2A",
+    "url": "https://www.rigpix.com/icom/icp2a.htm"
+  },
+  {
+    "model": "IC-P2AT",
+    "url": "https://www.rigpix.com/icom/icp2at.htm"
+  },
+  {
+    "model": "IC-P2E",
+    "url": "https://www.rigpix.com/icom/icp2e.htm"
+  },
+  {
+    "model": "IC-P2ET",
+    "url": "https://www.rigpix.com/icom/icp2et.htm"
+  },
+  {
+    "model": "IC-P3AT",
+    "url": "https://www.rigpix.com/icom/icp3at.htm"
+  },
+  {
+    "model": "IC-P4A",
+    "url": "https://www.rigpix.com/icom/icp4a.htm"
+  },
+  {
+    "model": "IC-P4AT",
+    "url": "https://www.rigpix.com/icom/icp4at.htm"
+  },
+  {
+    "model": "IC-P4E",
+    "url": "https://www.rigpix.com/icom/icp4e.htm"
+  },
+  {
+    "model": "IC-P4ET",
+    "url": "https://www.rigpix.com/icom/icp4et.htm"
+  },
+  {
+    "model": "IC-P7A",
+    "url": "https://www.rigpix.com/icom/icp7a.htm"
+  },
+  {
+    "model": "IC-Q7A",
+    "url": "https://www.rigpix.com/icom/icq7a.htm"
+  },
+  {
+    "model": "IC-Q7E",
+    "url": "https://www.rigpix.com/icom/icq7e.htm"
+  },
+  {
+    "model": "IC-S7D",
+    "url": "https://www.rigpix.com/icom/ics7d.htm"
+  },
+  {
+    "model": "IC-S21A",
+    "url": "https://www.rigpix.com/icom/ics21a.htm"
+  },
+  {
+    "model": "IC-S21E",
+    "url": "https://www.rigpix.com/icom/ics21e.htm"
+  },
+  {
+    "model": "IC-S22",
+    "url": "https://www.rigpix.com/icom/ics22.htm"
+  },
+  {
+    "model": "IC-S32",
+    "url": "https://www.rigpix.com/icom/ics32.htm"
+  },
+  {
+    "model": "IC-S41E",
+    "url": "https://www.rigpix.com/icom/ics41e.htm"
+  },
+  {
+    "model": "IC-T2H",
+    "url": "https://www.rigpix.com/icom/ict2h.htm"
+  },
+  {
+    "model": "IC-T3H",
+    "url": "https://www.rigpix.com/icom/ict3h.htm"
+  },
+  {
+    "model": "IC-T7A",
+    "url": "https://www.rigpix.com/icom/ict7a.htm"
+  },
+  {
+    "model": "IC-T7D",
+    "url": "https://www.rigpix.com/icom/ict7d.htm"
+  },
+  {
+    "model": "IC-T7E",
+    "url": "https://www.rigpix.com/icom/ict7e.htm"
+  },
+  {
+    "model": "IC-T7H",
+    "url": "https://www.rigpix.com/icom/ict7h.htm"
+  },
+  {
+    "model": "IC-T8A",
+    "url": "https://www.rigpix.com/icom/ict8a.htm"
+  },
+  {
+    "model": "IC-T8E",
+    "url": "https://www.rigpix.com/icom/ict8e.htm"
+  },
+  {
+    "model": "IC-T10",
+    "url": "https://www.rigpix.com/icom/ict10.htm"
+  },
+  {
+    "model": "IC-T21A",
+    "url": "https://www.rigpix.com/icom/ict21a.htm"
+  },
+  {
+    "model": "IC-T21E",
+    "url": "https://www.rigpix.com/icom/ict21e.htm"
+  },
+  {
+    "model": "IC-T22A",
+    "url": "https://www.rigpix.com/icom/ict22a.htm"
+  },
+  {
+    "model": "IC-T22E",
+    "url": "https://www.rigpix.com/icom/ict22e.htm"
+  },
+  {
+    "model": "IC-T32",
+    "url": "https://www.rigpix.com/icom/ict32.htm"
+  },
+  {
+    "model": "IC-T42A",
+    "url": "https://www.rigpix.com/icom/ict42a.htm"
+  },
+  {
+    "model": "IC-T42E",
+    "url": "https://www.rigpix.com/icom/ict42e.htm"
+  },
+  {
+    "model": "IC-T70A",
+    "url": "https://www.rigpix.com/icom/ict70a.htm"
+  },
+  {
+    "model": "IC-T70E",
+    "url": "https://www.rigpix.com/icom/ict70e.htm"
+  },
+  {
+    "model": "IC-T81A",
+    "url": "https://www.rigpix.com/icom/ict81a.htm"
+  },
+  {
+    "model": "IC-T81E",
+    "url": "https://www.rigpix.com/icom/ict81e.htm"
+  },
+  {
+    "model": "IC-T82R",
+    "url": "https://www.rigpix.com/icom/ict82r.htm"
+  },
+  {
+    "model": "IC-T90",
+    "url": "https://www.rigpix.com/icom/ict90.htm"
+  },
+  {
+    "model": "IC-T90A",
+    "url": "https://www.rigpix.com/icom/ict90a.htm"
+  },
+  {
+    "model": "IC-U1",
+    "url": "https://www.rigpix.com/icom/icu1.htm"
+  },
+  {
+    "model": "IC-U82",
+    "url": "https://www.rigpix.com/icom/icu82.htm"
+  },
+  {
+    "model": "IC-V1",
+    "url": "https://www.rigpix.com/icom/icv1.htm"
+  },
+  {
+    "model": "IC-V8",
+    "url": "https://www.rigpix.com/icom/icv8.htm"
+  },
+  {
+    "model": "IC-V21AT",
+    "url": "https://www.rigpix.com/icom/icv21at.htm"
+  },
+  {
+    "model": "IC-V82",
+    "url": "https://www.rigpix.com/icom/icv82.htm"
+  },
+  {
+    "model": "IC-V85",
+    "url": "https://www.rigpix.com/icom/icv85.htm"
+  },
+  {
+    "model": "IC-W2A",
+    "url": "https://www.rigpix.com/icom/icw2a.htm"
+  },
+  {
+    "model": "IC-W2E",
+    "url": "https://www.rigpix.com/icom/icw2e.htm"
+  },
+  {
+    "model": "IC-W21A",
+    "url": "https://www.rigpix.com/icom/icw21a.htm"
+  },
+  {
+    "model": "IC-W21AT",
+    "url": "https://www.rigpix.com/icom/icw21at.htm"
+  },
+  {
+    "model": "IC-W21E",
+    "url": "https://www.rigpix.com/icom/icw21e.htm"
+  },
+  {
+    "model": "IC-W21ET",
+    "url": "https://www.rigpix.com/icom/icw21et.htm"
+  },
+  {
+    "model": "IC-W31A",
+    "url": "https://www.rigpix.com/icom/icw31a.htm"
+  },
+  {
+    "model": "IC-W31E",
+    "url": "https://www.rigpix.com/icom/icw31e.htm"
+  },
+  {
+    "model": "IC-W32A",
+    "url": "https://www.rigpix.com/icom/icw32a.htm"
+  },
+  {
+    "model": "IC-W32E",
+    "url": "https://www.rigpix.com/icom/icw32e.htm"
+  },
+  {
+    "model": "IC-X2E",
+    "url": "https://www.rigpix.com/icom/icx2e.htm"
+  },
+  {
+    "model": "IC-X21AT",
+    "url": "https://www.rigpix.com/icom/icx21at.htm"
+  },
+  {
+    "model": "IC-X21ET",
+    "url": "https://www.rigpix.com/icom/icx21et.htm"
+  },
+  {
+    "model": "IC-X21T",
+    "url": "https://www.rigpix.com/icom/icx21t.htm"
+  },
+  {
+    "model": "IC-Z1A",
+    "url": "https://www.rigpix.com/icom/icz1a.htm"
+  },
+  {
+    "model": "IC-Z1E",
+    "url": "https://www.rigpix.com/icom/icz1e.htm"
+  },
+  {
+    "model": "IC-µ2A",
+    "url": "https://www.rigpix.com/icom/icmikro2a.htm"
+  },
+  {
+    "model": "IC-µ2AT",
+    "url": "https://www.rigpix.com/icom/icmikro2a.htm"
+  },
+  {
+    "model": "IC-µ2E",
+    "url": "https://www.rigpix.com/icom/icmikro2e.htm"
+  },
+  {
+    "model": "IC-µ4A",
+    "url": "https://www.rigpix.com/icom/icmikro4a.htm"
+  },
+  {
+    "model": "IC-µ4AT",
+    "url": "https://www.rigpix.com/icom/icmikro4at.htm"
+  },
+  {
+    "model": "IC-µ4E",
+    "url": "https://www.rigpix.com/icom/icmikro4e.htm"
+  },
+  {
+    "model": "IC-02A",
+    "url": "https://www.rigpix.com/icom/ic02a.htm"
+  },
+  {
+    "model": "IC-02AT",
+    "url": "https://www.rigpix.com/icom/ic02at.htm"
+  },
+  {
+    "model": "IC-02E",
+    "url": "https://www.rigpix.com/icom/ic02e.htm"
+  },
+  {
+    "model": "IC-03A",
+    "url": "https://www.rigpix.com/icom/ic03a.htm"
+  },
+  {
+    "model": "IC-03AT",
+    "url": "https://www.rigpix.com/icom/ic03at.htm"
+  },
+  {
+    "model": "IC-04A",
+    "url": "https://www.rigpix.com/icom/ic04a.htm"
+  },
+  {
+    "model": "IC-04AT",
+    "url": "https://www.rigpix.com/icom/ic04at.htm"
+  },
+  {
+    "model": "IC-04E",
+    "url": "https://www.rigpix.com/icom/ic04e.htm"
+  },
+  {
+    "model": "IC-2A",
+    "url": "https://www.rigpix.com/icom/ic2a.htm"
+  },
+  {
+    "model": "IC-2AT",
+    "url": "https://www.rigpix.com/icom/ic2at.htm"
+  },
+  {
+    "model": "IC-2E",
+    "url": "https://www.rigpix.com/icom/ic2e.htm"
+  },
+  {
+    "model": "IC-2GA",
+    "url": "https://www.rigpix.com/icom/ic2ga.htm"
+  },
+  {
+    "model": "IC-2GAT",
+    "url": "https://www.rigpix.com/icom/ic2gat.htm"
+  },
+  {
+    "model": "IC-2GE",
+    "url": "https://www.rigpix.com/icom/ic2ge.htm"
+  },
+  {
+    "model": "IC-2GXA",
+    "url": "https://www.rigpix.com/icom/ic2gxa.htm"
+  },
+  {
+    "model": "IC-2GXAT",
+    "url": "https://www.rigpix.com/icom/ic2gxat.htm"
+  },
+  {
+    "model": "IC-2GXE",
+    "url": "https://www.rigpix.com/icom/ic2gxe.htm"
+  },
+  {
+    "model": "IC-2GXET",
+    "url": "https://www.rigpix.com/icom/ic2gxet.htm"
+  },
+  {
+    "model": "IC-2iA",
+    "url": "https://www.rigpix.com/icom/ic2ia.htm"
+  },
+  {
+    "model": "IC-2iE",
+    "url": "https://www.rigpix.com/icom/ic2ie.htm"
+  },
+  {
+    "model": "IC-2N",
+    "url": "https://www.rigpix.com/icom/ic2n.htm"
+  },
+  {
+    "model": "IC-2SA",
+    "url": "https://www.rigpix.com/icom/ic2sa.htm"
+  },
+  {
+    "model": "IC-2SAT",
+    "url": "https://www.rigpix.com/icom/ic2sat.htm"
+  },
+  {
+    "model": "IC-2SE",
+    "url": "https://www.rigpix.com/icom/ic2se.htm"
+  },
+  {
+    "model": "IC-2SET",
+    "url": "https://www.rigpix.com/icom/ic2set.htm"
+  },
+  {
+    "model": "IC-2SRA",
+    "url": "https://www.rigpix.com/icom/ic2sra.htm"
+  },
+  {
+    "model": "IC-2SRE",
+    "url": "https://www.rigpix.com/icom/ic2sre.htm"
+  },
+  {
+    "model": "IC-3A",
+    "url": "https://www.rigpix.com/icom/ic3a.htm"
+  },
+  {
+    "model": "IC-3AT",
+    "url": "https://www.rigpix.com/icom/ic3at.htm"
+  },
+  {
+    "model": "IC-3J",
+    "url": "https://www.rigpix.com/icom/ic3j.htm"
+  },
+  {
+    "model": "IC-3N",
+    "url": "https://www.rigpix.com/icom/ic3n.htm"
+  },
+  {
+    "model": "IC-3SAT",
+    "url": "https://www.rigpix.com/icom/ic3sat.htm"
+  },
+  {
+    "model": "IC-4A",
+    "url": "https://www.rigpix.com/icom/ic4a.htm"
+  },
+  {
+    "model": "IC-4AT",
+    "url": "https://www.rigpix.com/icom/ic4at.htm"
+  },
+  {
+    "model": "IC-4E",
+    "url": "https://www.rigpix.com/icom/ic4e.htm"
+  },
+  {
+    "model": "IC-4GA",
+    "url": "https://www.rigpix.com/icom/ic4ga.htm"
+  },
+  {
+    "model": "IC-4GAT",
+    "url": "https://www.rigpix.com/icom/ic4gat.htm"
+  },
+  {
+    "model": "IC-4GE",
+    "url": "https://www.rigpix.com/icom/ic4ge.htm"
+  },
+  {
+    "model": "IC-4GXA",
+    "url": "https://www.rigpix.com/icom/ic4gxa.htm"
+  },
+  {
+    "model": "IC-4GXAT",
+    "url": "https://www.rigpix.com/icom/ic4gxat.htm"
+  },
+  {
+    "model": "IC-4GXE",
+    "url": "https://www.rigpix.com/icom/ic4gxe.htm"
+  },
+  {
+    "model": "IC-4GXET",
+    "url": "https://www.rigpix.com/icom/ic4gxet.htm"
+  },
+  {
+    "model": "IC-4iA",
+    "url": "https://www.rigpix.com/icom/ic4ia.htm"
+  },
+  {
+    "model": "IC-4iE",
+    "url": "https://www.rigpix.com/icom/ic4ie.htm"
+  },
+  {
+    "model": "IC-4SA",
+    "url": "https://www.rigpix.com/icom/ic4se.htm"
+  },
+  {
+    "model": "IC-4SAT",
+    "url": "https://www.rigpix.com/icom/ic4sat.htm"
+  },
+  {
+    "model": "IC-4SE",
+    "url": "https://www.rigpix.com/icom/ic4se.htm"
+  },
+  {
+    "model": "IC-4SET",
+    "url": "https://www.rigpix.com/icom/ic4set.htm"
+  },
+  {
+    "model": "IC-4SRA",
+    "url": "https://www.rigpix.com/icom/ic4sra.htm"
+  },
+  {
+    "model": "IC-4SRE",
+    "url": "https://www.rigpix.com/icom/ic4sre.htm"
+  },
+  {
+    "model": "IC-12AT",
+    "url": "https://www.rigpix.com/icom/ic12at.htm"
+  },
+  {
+    "model": "IC-12E",
+    "url": "https://www.rigpix.com/icom/ic12e.htm"
+  },
+  {
+    "model": "IC-12G",
+    "url": "https://www.rigpix.com/icom/ic12g.htm"
+  },
+  {
+    "model": "IC-12GAT",
+    "url": "https://www.rigpix.com/icom/ic12gat.htm"
+  },
+  {
+    "model": "IC-12GE",
+    "url": "https://www.rigpix.com/icom/ic12ge.htm"
+  },
+  {
+    "model": "IC-12N",
+    "url": "https://www.rigpix.com/icom/ic12n.htm"
+  },
+  {
+    "model": "IC-23",
+    "url": "https://www.rigpix.com/icom/ic23.htm"
+  },
+  {
+    "model": "IC-24AT",
+    "url": "https://www.rigpix.com/icom/ic24at.htm"
+  },
+  {
+    "model": "IC-24ET",
+    "url": "https://www.rigpix.com/icom/ic24et.htm"
+  },
+  {
+    "model": "IC-32A",
+    "url": "https://www.rigpix.com/icom/ic32a.htm"
+  },
+  {
+    "model": "IC-32AT",
+    "url": "https://www.rigpix.com/icom/ic32at.htm"
+  },
+  {
+    "model": "IC-32E",
+    "url": "https://www.rigpix.com/icom/ic32e.htm"
+  },
+  {
+    "model": "IC-32ET",
+    "url": "https://www.rigpix.com/icom/ic32et.htm"
+  },
+  {
+    "model": "IC-91A",
+    "url": "https://www.rigpix.com/icom/ic91a.htm"
+  },
+  {
+    "model": "IC-91AD",
+    "url": "https://www.rigpix.com/icom/ic91ad.htm"
+  },
+  {
+    "model": "IC-92AD",
+    "url": "https://www.rigpix.com/icom/ic92ad.htm"
+  },
+  {
+    "model": "IC-202",
+    "url": "https://www.rigpix.com/icom/ic202.htm"
+  },
+  {
+    "model": "IC-202A",
+    "url": "https://www.rigpix.com/icom/ic202a.htm"
+  },
+  {
+    "model": "IC-202E",
+    "url": "https://www.rigpix.com/icom/ic202e.htm"
+  },
+  {
+    "model": "IC-202S",
+    "url": "https://www.rigpix.com/icom/ic202s.htm"
+  },
+  {
+    "model": "IC-212",
+    "url": "https://www.rigpix.com/icom/ic212.htm"
+  },
+  {
+    "model": "IC-215",
+    "url": "https://www.rigpix.com/icom/ic215.htm"
+  },
+  {
+    "model": "IC-215E",
+    "url": "https://www.rigpix.com/icom/ic215e.htm"
+  },
+  {
+    "model": "IC-302",
+    "url": "https://www.rigpix.com/icom/ic302.htm"
+  },
+  {
+    "model": "IC-402",
+    "url": "https://www.rigpix.com/icom/ic402.htm"
+  },
+  {
+    "model": "IC-502",
+    "url": "https://www.rigpix.com/icom/ic502.htm"
+  },
+  {
+    "model": "IC-502A",
+    "url": "https://www.rigpix.com/icom/ic502a.htm"
+  },
+  {
+    "model": "IC-505",
+    "url": "https://www.rigpix.com/icom/ic505.htm"
+  },
+  {
+    "model": "ID-31E",
+    "url": "https://www.rigpix.com/icom/id31e.htm"
+  },
+  {
+    "model": "ID-50A",
+    "url": "https://www.rigpix.com/icom/id50a.htm"
+  },
+  {
+    "model": "ID-50E",
+    "url": "https://www.rigpix.com/icom/id50e.htm"
+  },
+  {
+    "model": "ID-51A",
+    "url": "https://www.rigpix.com/icom/id51a.htm"
+  },
+  {
+    "model": "ID-51E",
+    "url": "https://www.rigpix.com/icom/id51e.htm"
+  },
+  {
+    "model": "ID-51A Plus2",
+    "url": "https://www.rigpix.com/icom/id51aplus2.htm"
+  },
+  {
+    "model": "ID-51E Plus2",
+    "url": "https://www.rigpix.com/icom/id51eplus2.htm"
+  },
+  {
+    "model": "ID-52A",
+    "url": "https://www.rigpix.com/icom/id52a.htm"
+  },
+  {
+    "model": "ID-52E",
+    "url": "https://www.rigpix.com/icom/id52e.htm"
+  },
+  {
+    "model": "ID-80",
+    "url": "https://www.rigpix.com/icom/id80.htm"
+  },
+  {
+    "model": "ID-91",
+    "url": "https://www.rigpix.com/icom/id91.htm"
+  },
+  {
+    "model": "ID-92",
+    "url": "https://www.rigpix.com/icom/id92.htm"
+  },
+  {
+    "model": "AM-3D",
+    "url": "https://www.rigpix.com/icom/am3d.htm"
+  },
+  {
+    "model": "FDAM-1",
+    "url": "https://www.rigpix.com/icom/fdam1.htm"
+  },
+  {
+    "model": "FDAM-3",
+    "url": "https://www.rigpix.com/icom/fdam3.htm"
+  },
+  {
+    "model": "IC-&#916;100 / IC-Delta 100",
+    "url": "https://www.rigpix.com/icom/icdelta100.htm"
+  },
+  {
+    "model": "IC-&#916;100D / IC-Delta 100D",
+    "url": "https://www.rigpix.com/icom/icdelta100d.htm"
+  },
+  {
+    "model": "IC-&#916;100H / IC-Delta 100H",
+    "url": "https://www.rigpix.com/icom/icdelta100h.htm"
+  },
+  {
+    "model": "IC-&#916;100M / IC-Delta 100M",
+    "url": "https://www.rigpix.com/icom/icdelta100m.htm"
+  },
+  {
+    "model": "IC-E208",
+    "url": "https://www.rigpix.com/icom/ice208.htm"
+  },
+  {
+    "model": "IC-E2820",
+    "url": "https://www.rigpix.com/icom/ice2820.htm"
+  },
+  {
+    "model": "IC-V3500",
+    "url": "https://www.rigpix.com/icom/icv3500.htm"
+  },
+  {
+    "model": "IC-V8000",
+    "url": "https://www.rigpix.com/icom/icv8000.htm"
+  },
+  {
+    "model": "IC-2F",
+    "url": "https://www.rigpix.com/icom/ic2f.htm"
+  },
+  {
+    "model": "IC-6F",
+    "url": "https://www.rigpix.com/icom/ic6f.htm"
+  },
+  {
+    "model": "IC-20",
+    "url": "https://www.rigpix.com/icom/ic20.htm"
+  },
+  {
+    "model": "IC-22",
+    "url": "https://www.rigpix.com/icom/ic22.htm"
+  },
+  {
+    "model": "IC-22A",
+    "url": "https://www.rigpix.com/icom/ic22a.htm"
+  },
+  {
+    "model": "IC-22S",
+    "url": "https://www.rigpix.com/icom/ic22s.htm"
+  },
+  {
+    "model": "IC-22U",
+    "url": "https://www.rigpix.com/icom/ic22u.htm"
+  },
+  {
+    "model": "IC-24E",
+    "url": "https://www.rigpix.com/icom/ic24e.htm"
+  },
+  {
+    "model": "IC-24G",
+    "url": "https://www.rigpix.com/icom/ic24g.htm"
+  },
+  {
+    "model": "IC-25A",
+    "url": "https://www.rigpix.com/icom/ic25a.htm"
+  },
+  {
+    "model": "IC-25E",
+    "url": "https://www.rigpix.com/icom/ic25e.htm"
+  },
+  {
+    "model": "IC-25H",
+    "url": "https://www.rigpix.com/icom/ic25h.htm"
+  },
+  {
+    "model": "IC-26",
+    "url": "https://www.rigpix.com/icom/ic26.htm"
+  },
+  {
+    "model": "IC-27A",
+    "url": "https://www.rigpix.com/icom/ic27a.htm"
+  },
+  {
+    "model": "IC-27E",
+    "url": "https://www.rigpix.com/icom/ic27e.htm"
+  },
+  {
+    "model": "IC-27H",
+    "url": "https://www.rigpix.com/icom/ic27h.htm"
+  },
+  {
+    "model": "IC-28",
+    "url": "https://www.rigpix.com/icom/ic28.htm"
+  },
+  {
+    "model": "IC-28A",
+    "url": "https://www.rigpix.com/icom/ic28a.htm"
+  },
+  {
+    "model": "IC-28E",
+    "url": "https://www.rigpix.com/icom/ic28e.htm"
+  },
+  {
+    "model": "IC-28H",
+    "url": "https://www.rigpix.com/icom/ic28h.htm"
+  },
+  {
+    "model": "IC-30",
+    "url": "https://www.rigpix.com/icom/ic30.htm"
+  },
+  {
+    "model": "IC-30A",
+    "url": "https://www.rigpix.com/icom/ic30a.htm"
+  },
+  {
+    "model": "IC-35",
+    "url": "https://www.rigpix.com/icom/ic35.htm"
+  },
+  {
+    "model": "IC-37",
+    "url": "https://www.rigpix.com/icom/ic37.htm"
+  },
+  {
+    "model": "IC-37A",
+    "url": "https://www.rigpix.com/icom/ic37a.htm"
+  },
+  {
+    "model": "IC-38A",
+    "url": "https://www.rigpix.com/icom/ic38a.htm"
+  },
+  {
+    "model": "IC-45A",
+    "url": "https://www.rigpix.com/icom/ic45a.htm"
+  },
+  {
+    "model": "IC-45E",
+    "url": "https://www.rigpix.com/icom/ic45e.htm"
+  },
+  {
+    "model": "IC-47A",
+    "url": "https://www.rigpix.com/icom/ic47a.htm"
+  },
+  {
+    "model": "IC-47E",
+    "url": "https://www.rigpix.com/icom/ic47e.htm"
+  },
+  {
+    "model": "IC-48A",
+    "url": "https://www.rigpix.com/icom/ic48a.htm"
+  },
+  {
+    "model": "IC-48E",
+    "url": "https://www.rigpix.com/icom/ic48e.htm"
+  },
+  {
+    "model": "IC-60",
+    "url": "https://www.rigpix.com/icom/ic60.htm"
+  },
+  {
+    "model": "IC-120",
+    "url": "https://www.rigpix.com/icom/ic120.htm"
+  },
+  {
+    "model": "IC-200",
+    "url": "https://www.rigpix.com/icom/ic200.htm"
+  },
+  {
+    "model": "IC-207H",
+    "url": "https://www.rigpix.com/icom/ic207h.htm"
+  },
+  {
+    "model": "IC-208D",
+    "url": "https://www.rigpix.com/icom/ic208d.htm"
+  },
+  {
+    "model": "IC-208H",
+    "url": "https://www.rigpix.com/icom/ic208h.htm"
+  },
+  {
+    "model": "IC-225",
+    "url": "https://www.rigpix.com/icom/ic225.htm"
+  },
+  {
+    "model": "IC-228A",
+    "url": "https://www.rigpix.com/icom/ic228a.htm"
+  },
+  {
+    "model": "IC-228E",
+    "url": "https://www.rigpix.com/icom/ic228e.htm"
+  },
+  {
+    "model": "IC-228H",
+    "url": "https://www.rigpix.com/icom/ic228h.htm"
+  },
+  {
+    "model": "IC-229A",
+    "url": "https://www.rigpix.com/icom/ic229a.htm"
+  },
+  {
+    "model": "IC-229E",
+    "url": "https://www.rigpix.com/icom/ic229e.htm"
+  },
+  {
+    "model": "IC-229H",
+    "url": "https://www.rigpix.com/icom/ic229h.htm"
+  },
+  {
+    "model": "IC-230",
+    "url": "https://www.rigpix.com/icom/ic230.htm"
+  },
+  {
+    "model": "IC-232",
+    "url": "https://www.rigpix.com/icom/ic232.htm"
+  },
+  {
+    "model": "IC-240",
+    "url": "https://www.rigpix.com/icom/ic240.htm"
+  },
+  {
+    "model": "IC-245",
+    "url": "https://www.rigpix.com/icom/ic245.htm"
+  },
+  {
+    "model": "IC-245E",
+    "url": "https://www.rigpix.com/icom/ic245e.htm"
+  },
+  {
+    "model": "IC-250",
+    "url": "https://www.rigpix.com/icom/ic250.htm"
+  },
+  {
+    "model": "IC-255A",
+    "url": "https://www.rigpix.com/icom/ic255a.htm"
+  },
+  {
+    "model": "IC-255E",
+    "url": "https://www.rigpix.com/icom/ic255e.htm"
+  },
+  {
+    "model": "IC-260A",
+    "url": "https://www.rigpix.com/icom/ic260a.htm"
+  },
+  {
+    "model": "IC-260E",
+    "url": "https://www.rigpix.com/icom/ic260e.htm"
+  },
+  {
+    "model": "IC-270",
+    "url": "https://www.rigpix.com/icom/ic270.htm"
+  },
+  {
+    "model": "IC-280E",
+    "url": "https://www.rigpix.com/icom/ic280e.htm"
+  },
+  {
+    "model": "IC-281A",
+    "url": "https://www.rigpix.com/icom/ic281a.htm"
+  },
+  {
+    "model": "IC-281E",
+    "url": "https://www.rigpix.com/icom/ic281e.htm"
+  },
+  {
+    "model": "IC-281H",
+    "url": "https://www.rigpix.com/icom/ic281h.htm"
+  },
+  {
+    "model": "IC-290",
+    "url": "https://www.rigpix.com/icom/ic290.htm"
+  },
+  {
+    "model": "IC-290A",
+    "url": "https://www.rigpix.com/icom/ic290a.htm"
+  },
+  {
+    "model": "IC-290D",
+    "url": "https://www.rigpix.com/icom/ic290d.htm"
+  },
+  {
+    "model": "IC-290E",
+    "url": "https://www.rigpix.com/icom/ic290e.htm"
+  },
+  {
+    "model": "IC-290H",
+    "url": "https://www.rigpix.com/icom/ic290h.htm"
+  },
+  {
+    "model": "IC-320",
+    "url": "https://www.rigpix.com/icom/ic320.htm"
+  },
+  {
+    "model": "IC-339",
+    "url": "https://www.rigpix.com/icom/ic339.htm"
+  },
+  {
+    "model": "IC-370",
+    "url": "https://www.rigpix.com/icom/ic370.htm"
+  },
+  {
+    "model": "IC-370A",
+    "url": "https://www.rigpix.com/icom/ic370a.htm"
+  },
+  {
+    "model": "IC-390",
+    "url": "https://www.rigpix.com/icom/ic390.htm"
+  },
+  {
+    "model": "IC-448A",
+    "url": "https://www.rigpix.com/icom/ic448a.htm"
+  },
+  {
+    "model": "IC-448E",
+    "url": "https://www.rigpix.com/icom/ic448e.htm"
+  },
+  {
+    "model": "IC-449A",
+    "url": "https://www.rigpix.com/icom/ic449a.htm"
+  },
+  {
+    "model": "IC-449E",
+    "url": "https://www.rigpix.com/icom/ic449e.htm"
+  },
+  {
+    "model": "IC-481A",
+    "url": "https://www.rigpix.com/icom/ic481a.htm"
+  },
+  {
+    "model": "IC-481E",
+    "url": "https://www.rigpix.com/icom/ic481e.htm"
+  },
+  {
+    "model": "IC-481H",
+    "url": "https://www.rigpix.com/icom/ic481h.htm"
+  },
+  {
+    "model": "IC-490A",
+    "url": "https://www.rigpix.com/icom/ic490a.htm"
+  },
+  {
+    "model": "IC-490E",
+    "url": "https://www.rigpix.com/icom/ic490e.htm"
+  },
+  {
+    "model": "IC-560",
+    "url": "https://www.rigpix.com/icom/ic560.htm"
+  },
+  {
+    "model": "IC-681",
+    "url": "https://www.rigpix.com/icom/ic681.htm"
+  },
+  {
+    "model": "IC-900A",
+    "url": "https://www.rigpix.com/icom/ic900a.htm"
+  },
+  {
+    "model": "IC-900E",
+    "url": "https://www.rigpix.com/icom/ic900e.htm"
+  },
+  {
+    "model": "IC-901A",
+    "url": "https://www.rigpix.com/icom/ic901a.htm"
+  },
+  {
+    "model": "IC-901E",
+    "url": "https://www.rigpix.com/icom/ic901e.htm"
+  },
+  {
+    "model": "IC-1200A",
+    "url": "https://www.rigpix.com/icom/ic1200a.htm"
+  },
+  {
+    "model": "IC-1200E",
+    "url": "https://www.rigpix.com/icom/ic1200e.htm"
+  },
+  {
+    "model": "IC-1201A",
+    "url": "https://www.rigpix.com/icom/ic1201a.htm"
+  },
+  {
+    "model": "IC-1201E",
+    "url": "https://www.rigpix.com/icom/ic1201e.htm"
+  },
+  {
+    "model": "IC-2000",
+    "url": "https://www.rigpix.com/icom/ic2000.htm"
+  },
+  {
+    "model": "IC-2000H",
+    "url": "https://www.rigpix.com/icom/ic2000h.htm"
+  },
+  {
+    "model": "IC-2100H",
+    "url": "https://www.rigpix.com/icom/ic2100h.htm"
+  },
+  {
+    "model": "IC-2200H",
+    "url": "https://www.rigpix.com/icom/ic2200h.htm"
+  },
+  {
+    "model": "IC-2300",
+    "url": "https://www.rigpix.com/icom/ic2300.htm"
+  },
+  {
+    "model": "IC-2300D",
+    "url": "https://www.rigpix.com/icom/ic2300d.htm"
+  },
+  {
+    "model": "IC-2300H",
+    "url": "https://www.rigpix.com/icom/ic2300h.htm"
+  },
+  {
+    "model": "IC-2300-T",
+    "url": "https://www.rigpix.com/icom/ic2300t.htm"
+  },
+  {
+    "model": "IC-2310",
+    "url": "https://www.rigpix.com/icom/ic2310.htm"
+  },
+  {
+    "model": "IC-2310D",
+    "url": "https://www.rigpix.com/icom/ic2310d.htm"
+  },
+  {
+    "model": "IC-2330A",
+    "url": "https://www.rigpix.com/icom/ic2330a.htm"
+  },
+  {
+    "model": "IC-2340",
+    "url": "https://www.rigpix.com/icom/ic2340.htm"
+  },
+  {
+    "model": "IC-2340A",
+    "url": "https://www.rigpix.com/icom/ic2340a.htm"
+  },
+  {
+    "model": "IC-2340E",
+    "url": "https://www.rigpix.com/icom/ic2340e.htm"
+  },
+  {
+    "model": "IC-2340H",
+    "url": "https://www.rigpix.com/icom/ic2340h.htm"
+  },
+  {
+    "model": "IC-2350H",
+    "url": "https://www.rigpix.com/icom/ic2350h.htm"
+  },
+  {
+    "model": "IC-2400A",
+    "url": "https://www.rigpix.com/icom/ic2400a.htm"
+  },
+  {
+    "model": "IC-2400E",
+    "url": "https://www.rigpix.com/icom/ic2400e.htm"
+  },
+  {
+    "model": "IC-2410A",
+    "url": "https://www.rigpix.com/icom/ic2410a.htm"
+  },
+  {
+    "model": "IC-2410E",
+    "url": "https://www.rigpix.com/icom/ic2410e.htm"
+  },
+  {
+    "model": "IC-2410H",
+    "url": "https://www.rigpix.com/icom/ic2410h.htm"
+  },
+  {
+    "model": "IC-2500A",
+    "url": "https://www.rigpix.com/icom/ic2500a.htm"
+  },
+  {
+    "model": "IC-2500E",
+    "url": "https://www.rigpix.com/icom/ic2500e.htm"
+  },
+  {
+    "model": "IC-2600",
+    "url": "https://www.rigpix.com/icom/ic2600.htm"
+  },
+  {
+    "model": "IC-2600D",
+    "url": "https://www.rigpix.com/icom/ic2600d.htm"
+  },
+  {
+    "model": "IC-2700A",
+    "url": "https://www.rigpix.com/icom/ic2700a.htm"
+  },
+  {
+    "model": "IC-2700E",
+    "url": "https://www.rigpix.com/icom/ic2700e.htm"
+  },
+  {
+    "model": "IC-2700H",
+    "url": "https://www.rigpix.com/icom/ic2700h.htm"
+  },
+  {
+    "model": "IC-2710H",
+    "url": "https://www.rigpix.com/icom/ic2710h.htm"
+  },
+  {
+    "model": "IC-2720H",
+    "url": "https://www.rigpix.com/icom/ic2720h.htm"
+  },
+  {
+    "model": "IC-2725E",
+    "url": "https://www.rigpix.com/icom/ic2725e.htm"
+  },
+  {
+    "model": "IC-2730A",
+    "url": "https://www.rigpix.com/icom/ic2730a.htm"
+  },
+  {
+    "model": "IC-2730A",
+    "url": "https://www.rigpix.com/icom/ic2730abe.htm"
+  },
+  {
+    "model": "IC-2730D",
+    "url": "https://www.rigpix.com/icom/ic2730d.htm"
+  },
+  {
+    "model": "IC-2730E",
+    "url": "https://www.rigpix.com/icom/ic2730e.htm"
+  },
+  {
+    "model": "IC-2730E",
+    "url": "https://www.rigpix.com/icom/ic2730ebe.htm"
+  },
+  {
+    "model": "IC-2800H",
+    "url": "https://www.rigpix.com/icom/ic2800h.htm"
+  },
+  {
+    "model": "IC-2820H",
+    "url": "https://www.rigpix.com/icom/ic2820h.htm"
+  },
+  {
+    "model": "IC-3200A",
+    "url": "https://www.rigpix.com/icom/ic3200a.htm"
+  },
+  {
+    "model": "IC-3200E",
+    "url": "https://www.rigpix.com/icom/ic3200e.htm"
+  },
+  {
+    "model": "IC-3210A",
+    "url": "https://www.rigpix.com/icom/ic3210a.htm"
+  },
+  {
+    "model": "IC-3210E",
+    "url": "https://www.rigpix.com/icom/ic3210e.htm"
+  },
+  {
+    "model": "IC-3220A",
+    "url": "https://www.rigpix.com/icom/ic3220a.htm"
+  },
+  {
+    "model": "IC-3220E",
+    "url": "https://www.rigpix.com/icom/ic3220e.htm"
+  },
+  {
+    "model": "IC-3220H",
+    "url": "https://www.rigpix.com/icom/ic3220h.htm"
+  },
+  {
+    "model": "IC-3230A",
+    "url": "https://www.rigpix.com/icom/ic3230a.htm"
+  },
+  {
+    "model": "IC-3230E",
+    "url": "https://www.rigpix.com/icom/ic3230e.htm"
+  },
+  {
+    "model": "IC-3230H",
+    "url": "https://www.rigpix.com/icom/ic3230h.htm"
+  },
+  {
+    "model": "IC-3700",
+    "url": "https://www.rigpix.com/icom/ic3700.htm"
+  },
+  {
+    "model": "IC-3700D",
+    "url": "https://www.rigpix.com/icom/ic3700d.htm"
+  },
+  {
+    "model": "IC-3700M",
+    "url": "https://www.rigpix.com/icom/ic3700m.htm"
+  },
+  {
+    "model": "ID-1",
+    "url": "https://www.rigpix.com/icom/id1.htm"
+  },
+  {
+    "model": "ID-800D",
+    "url": "https://www.rigpix.com/icom/id800d.htm"
+  },
+  {
+    "model": "ID-800H",
+    "url": "https://www.rigpix.com/icom/id800h.htm"
+  },
+  {
+    "model": "ID-880D",
+    "url": "https://www.rigpix.com/icom/id880d.htm"
+  },
+  {
+    "model": "ID-4100A",
+    "url": "https://www.rigpix.com/icom/id4100a.htm"
+  },
+  {
+    "model": "ID-4100E",
+    "url": "https://www.rigpix.com/icom/id4100e.htm"
+  },
+  {
+    "model": "ID-5100A",
+    "url": "https://www.rigpix.com/icom/id5100a.htm"
+  },
+  {
+    "model": "ID-5100E",
+    "url": "https://www.rigpix.com/icom/id5100e.htm"
+  },
+  {
+    "model": "ID-5200A",
+    "url": "https://www.rigpix.com/icom/id5200a.htm"
+  },
+  {
+    "model": "ID-5200E",
+    "url": "https://www.rigpix.com/icom/id5200e.htm"
+  },
+  {
+    "model": "ID-E880",
+    "url": "https://www.rigpix.com/icom/ide880.htm"
+  },
+  {
+    "model": "IC-21",
+    "url": "https://www.rigpix.com/icom/ic21.htm"
+  },
+  {
+    "model": "IC-21A",
+    "url": "https://www.rigpix.com/icom/ic21a.htm"
+  },
+  {
+    "model": "IC-21AD",
+    "url": "https://www.rigpix.com/icom/ic21ad.htm"
+  },
+  {
+    "model": "IC-31",
+    "url": "https://www.rigpix.com/icom/ic31.htm"
+  },
+  {
+    "model": "IC-61",
+    "url": "https://www.rigpix.com/icom/ic61.htm"
+  },
+  {
+    "model": "IC-71",
+    "url": "https://www.rigpix.com/icom/ic71.htm"
+  },
+  {
+    "model": "IC-201",
+    "url": "https://www.rigpix.com/icom/ic201.htm"
+  },
+  {
+    "model": "IC-210",
+    "url": "https://www.rigpix.com/icom/ic210.htm"
+  },
+  {
+    "model": "IC-211",
+    "url": "https://www.rigpix.com/icom/ic211.htm"
+  },
+  {
+    "model": "IC-211E",
+    "url": "https://www.rigpix.com/icom/ic211e.htm"
+  },
+  {
+    "model": "IC-221",
+    "url": "https://www.rigpix.com/icom/ic221.htm"
+  },
+  {
+    "model": "IC-251A",
+    "url": "https://www.rigpix.com/icom/ic251a.htm"
+  },
+  {
+    "model": "IC-251E",
+    "url": "https://www.rigpix.com/icom/ic251e.htm"
+  },
+  {
+    "model": "IC-271A",
+    "url": "https://www.rigpix.com/icom/ic271a.htm"
+  },
+  {
+    "model": "IC-271E",
+    "url": "https://www.rigpix.com/icom/ic271e.htm"
+  },
+  {
+    "model": "IC-271H",
+    "url": "https://www.rigpix.com/icom/ic271h.htm"
+  },
+  {
+    "model": "IC-275A",
+    "url": "https://www.rigpix.com/icom/ic275a.htm"
+  },
+  {
+    "model": "IC-275E",
+    "url": "https://www.rigpix.com/icom/ic275e.htm"
+  },
+  {
+    "model": "IC-275H",
+    "url": "https://www.rigpix.com/icom/ic275h.htm"
+  },
+  {
+    "model": "IC-351",
+    "url": "https://www.rigpix.com/icom/ic351.htm"
+  },
+  {
+    "model": "IC-371",
+    "url": "https://www.rigpix.com/icom/ic371.htm"
+  },
+  {
+    "model": "IC-375",
+    "url": "https://www.rigpix.com/icom/ic375.htm"
+  },
+  {
+    "model": "IC-375A",
+    "url": "https://www.rigpix.com/icom/ic375a.htm"
+  },
+  {
+    "model": "IC-375D",
+    "url": "https://www.rigpix.com/icom/ic375d.htm"
+  },
+  {
+    "model": "IC-451A",
+    "url": "https://www.rigpix.com/icom/ic451a.htm"
+  },
+  {
+    "model": "IC-451E",
+    "url": "https://www.rigpix.com/icom/ic451e.htm"
+  },
+  {
+    "model": "IC-471A",
+    "url": "https://www.rigpix.com/icom/ic471a.htm"
+  },
+  {
+    "model": "IC-471E",
+    "url": "https://www.rigpix.com/icom/ic471e.htm"
+  },
+  {
+    "model": "IC-471H",
+    "url": "https://www.rigpix.com/icom/ic471h.htm"
+  },
+  {
+    "model": "IC-475A",
+    "url": "https://www.rigpix.com/icom/ic475a.htm"
+  },
+  {
+    "model": "IC-475E",
+    "url": "https://www.rigpix.com/icom/ic475e.htm"
+  },
+  {
+    "model": "IC-475H",
+    "url": "https://www.rigpix.com/icom/ic475h.htm"
+  },
+  {
+    "model": "IC-501",
+    "url": "https://www.rigpix.com/icom/ic501.htm"
+  },
+  {
+    "model": "IC-551",
+    "url": "https://www.rigpix.com/icom/ic551.htm"
+  },
+  {
+    "model": "IC-551D",
+    "url": "https://www.rigpix.com/icom/ic551d.htm"
+  },
+  {
+    "model": "IC-575A",
+    "url": "https://www.rigpix.com/icom/ic575a.htm"
+  },
+  {
+    "model": "IC-575D",
+    "url": "https://www.rigpix.com/icom/ic575d.htm"
+  },
+  {
+    "model": "IC-575H",
+    "url": "https://www.rigpix.com/icom/ic575h.htm"
+  },
+  {
+    "model": "IC-820D",
+    "url": "https://www.rigpix.com/icom/ic820d.htm"
+  },
+  {
+    "model": "IC-820H",
+    "url": "https://www.rigpix.com/icom/ic820h.htm"
+  },
+  {
+    "model": "IC-821H",
+    "url": "https://www.rigpix.com/icom/ic821h.htm"
+  },
+  {
+    "model": "IC-905",
+    "url": "https://www.rigpix.com/icom/ic905.htm"
+  },
+  {
+    "model": "IC-910",
+    "url": "https://www.rigpix.com/icom/ic910.htm"
+  },
+  {
+    "model": "IC-910D",
+    "url": "https://www.rigpix.com/icom/ic910d.htm"
+  },
+  {
+    "model": "IC-910H",
+    "url": "https://www.rigpix.com/icom/ic910h.htm"
+  },
+  {
+    "model": "IC-911",
+    "url": "https://www.rigpix.com/icom/ic911.htm"
+  },
+  {
+    "model": "IC-911D",
+    "url": "https://www.rigpix.com/icom/ic911d.htm"
+  },
+  {
+    "model": "IC-970",
+    "url": "https://www.rigpix.com/icom/ic970.htm"
+  },
+  {
+    "model": "IC-970A",
+    "url": "https://www.rigpix.com/icom/ic970a.htm"
+  },
+  {
+    "model": "IC-970D",
+    "url": "https://www.rigpix.com/icom/ic970d.htm"
+  },
+  {
+    "model": "IC-970E",
+    "url": "https://www.rigpix.com/icom/ic970e.htm"
+  },
+  {
+    "model": "IC-970H",
+    "url": "https://www.rigpix.com/icom/ic970h.htm"
+  },
+  {
+    "model": "IC-970M",
+    "url": "https://www.rigpix.com/icom/ic970m.htm"
+  },
+  {
+    "model": "IC-1271",
+    "url": "https://www.rigpix.com/icom/ic1271.htm"
+  },
+  {
+    "model": "IC-1271A",
+    "url": "https://www.rigpix.com/icom/ic1271a.htm"
+  },
+  {
+    "model": "IC-1271E",
+    "url": "https://www.rigpix.com/icom/ic1271e.htm"
+  },
+  {
+    "model": "IC-1275",
+    "url": "https://www.rigpix.com/icom/ic1275.htm"
+  },
+  {
+    "model": "IC-1275A",
+    "url": "https://www.rigpix.com/icom/ic1275a.htm"
+  },
+  {
+    "model": "IC-1275E",
+    "url": "https://www.rigpix.com/icom/ic1275e.htm"
+  },
+  {
+    "model": "IC-9700",
+    "url": "https://www.rigpix.com/icom/ic9700.htm"
+  },
+  {
+    "model": "TRA-60",
+    "url": "https://www.rigpix.com/icom/tra60.htm"
+  },
+  {
+    "model": "IC-701",
+    "url": "https://www.rigpix.com/icom/ic701.htm"
+  },
+  {
+    "model": "IC-703",
+    "url": "https://www.rigpix.com/icom/ic703.htm"
+  },
+  {
+    "model": "IC-703 Plus",
+    "url": "https://www.rigpix.com/icom/ic703plus.htm"
+  },
+  {
+    "model": "IC-705",
+    "url": "https://www.rigpix.com/icom/ic705.htm"
+  },
+  {
+    "model": "IC-706",
+    "url": "https://www.rigpix.com/icom/ic706.htm"
+  },
+  {
+    "model": "IC-706MKII",
+    "url": "https://www.rigpix.com/icom/ic706mkii.htm"
+  },
+  {
+    "model": "IC-706MKIIG",
+    "url": "https://www.rigpix.com/icom/ic706mkiig.htm"
+  },
+  {
+    "model": "IC-707",
+    "url": "https://www.rigpix.com/icom/ic707.htm"
+  },
+  {
+    "model": "IC-710",
+    "url": "https://www.rigpix.com/icom/ic710.htm"
+  },
+  {
+    "model": "IC-718",
+    "url": "https://www.rigpix.com/icom/ic718.htm"
+  },
+  {
+    "model": "IC-720",
+    "url": "https://www.rigpix.com/icom/ic720.htm"
+  },
+  {
+    "model": "IC-720A",
+    "url": "https://www.rigpix.com/icom/ic720a.htm"
+  },
+  {
+    "model": "IC-721S",
+    "url": "https://www.rigpix.com/icom/ic721s.htm"
+  },
+  {
+    "model": "IC-725",
+    "url": "https://www.rigpix.com/icom/ic725.htm"
+  },
+  {
+    "model": "IC-726",
+    "url": "https://www.rigpix.com/icom/ic726.htm"
+  },
+  {
+    "model": "IC-728",
+    "url": "https://www.rigpix.com/icom/ic728.htm"
+  },
+  {
+    "model": "IC-729",
+    "url": "https://www.rigpix.com/icom/ic729.htm"
+  },
+  {
+    "model": "IC-730",
+    "url": "https://www.rigpix.com/icom/ic730.htm"
+  },
+  {
+    "model": "IC-731",
+    "url": "https://www.rigpix.com/icom/ic731.htm"
+  },
+  {
+    "model": "IC-732",
+    "url": "https://www.rigpix.com/icom/ic732.htm"
+  },
+  {
+    "model": "IC-735",
+    "url": "https://www.rigpix.com/icom/ic735.htm"
+  },
+  {
+    "model": "IC-736",
+    "url": "https://www.rigpix.com/icom/ic736.htm"
+  },
+  {
+    "model": "IC-737",
+    "url": "https://www.rigpix.com/icom/ic737.htm"
+  },
+  {
+    "model": "IC-737A",
+    "url": "https://www.rigpix.com/icom/ic737a.htm"
+  },
+  {
+    "model": "IC-738",
+    "url": "https://www.rigpix.com/icom/ic738.htm"
+  },
+  {
+    "model": "IC-740",
+    "url": "https://www.rigpix.com/icom/ic740.htm"
+  },
+  {
+    "model": "IC-741",
+    "url": "https://www.rigpix.com/icom/ic741.htm"
+  },
+  {
+    "model": "IC-745",
+    "url": "https://www.rigpix.com/icom/ic745.htm"
+  },
+  {
+    "model": "IC-746",
+    "url": "https://www.rigpix.com/icom/ic746.htm"
+  },
+  {
+    "model": "IC.746 Pro",
+    "url": "https://www.rigpix.com/icom/ic746pro.htm"
+  },
+  {
+    "model": "IC-750",
+    "url": "https://www.rigpix.com/icom/ic750.htm"
+  },
+  {
+    "model": "IC-750A",
+    "url": "https://www.rigpix.com/icom/ic750a.htm"
+  },
+  {
+    "model": "IC-751",
+    "url": "https://www.rigpix.com/icom/ic751.htm"
+  },
+  {
+    "model": "IC-751A",
+    "url": "https://www.rigpix.com/icom/ic751a.htm"
+  },
+  {
+    "model": "IC-756",
+    "url": "https://www.rigpix.com/icom/ic756.htm"
+  },
+  {
+    "model": "IC-756 Pro",
+    "url": "https://www.rigpix.com/icom/ic756pro.htm"
+  },
+  {
+    "model": "IC-756 Pro II",
+    "url": "https://www.rigpix.com/icom/ic756proii.htm"
+  },
+  {
+    "model": "IC-756 Pro III",
+    "url": "https://www.rigpix.com/icom/ic756proiii.htm"
+  },
+  {
+    "model": "IC-760",
+    "url": "https://www.rigpix.com/icom/ic760.htm"
+  },
+  {
+    "model": "IC-761",
+    "url": "https://www.rigpix.com/icom/ic761.htm"
+  },
+  {
+    "model": "IC-765",
+    "url": "https://www.rigpix.com/icom/ic765.htm"
+  },
+  {
+    "model": "IC-775",
+    "url": "https://www.rigpix.com/icom/ic775.htm"
+  },
+  {
+    "model": "IC-775DSP",
+    "url": "https://www.rigpix.com/icom/ic775dsp.htm"
+  },
+  {
+    "model": "IC-775DX II",
+    "url": "https://www.rigpix.com/icom/ic775dxii.htm"
+  },
+  {
+    "model": "IC-780",
+    "url": "https://www.rigpix.com/icom/ic780.htm"
+  },
+  {
+    "model": "IC-781",
+    "url": "https://www.rigpix.com/icom/ic781.htm"
+  },
+  {
+    "model": "IC-7000",
+    "url": "https://www.rigpix.com/icom/ic7000.htm"
+  },
+  {
+    "model": "IC-7100",
+    "url": "https://www.rigpix.com/icom/ic7100.htm"
+  },
+  {
+    "model": "IC-7200",
+    "url": "https://www.rigpix.com/icom/ic7200.htm"
+  },
+  {
+    "model": "IC-7300",
+    "url": "https://www.rigpix.com/icom/ic7300.htm"
+  },
+  {
+    "model": "IC-7300MK2",
+    "url": "https://www.rigpix.com/icom/ic7300mk2.htm"
+  },
+  {
+    "model": "IC-7400",
+    "url": "https://www.rigpix.com/icom/ic7400.htm"
+  },
+  {
+    "model": "IC-7410",
+    "url": "https://www.rigpix.com/icom/ic7410.htm"
+  },
+  {
+    "model": "IC-7600",
+    "url": "https://www.rigpix.com/icom/ic7600.htm"
+  },
+  {
+    "model": "IC-7610",
+    "url": "https://www.rigpix.com/icom/ic7610.htm"
+  },
+  {
+    "model": "IC-7700",
+    "url": "https://www.rigpix.com/icom/ic7700.htm"
+  },
+  {
+    "model": "IC-7760",
+    "url": "https://www.rigpix.com/icom/ic7760.htm"
+  },
+  {
+    "model": "IC-7800",
+    "url": "https://www.rigpix.com/icom/ic7800.htm"
+  },
+  {
+    "model": "IC-7850",
+    "url": "https://www.rigpix.com/icom/ic7850.htm"
+  },
+  {
+    "model": "IC-7851",
+    "url": "https://www.rigpix.com/icom/ic7851.htm"
+  },
+  {
+    "model": "IC-9100",
+    "url": "https://www.rigpix.com/icom/ic9100.htm"
+  },
+  {
+    "model": "X-026",
+    "url": "https://www.rigpix.com/icom/x026.htm"
+  }
+]
