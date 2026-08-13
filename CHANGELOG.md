@@ -13,6 +13,7 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 
 ## [Unreleased]
 ### Added
+- HAARP IRI (`haarp`) band chart.
 - New Zealand (`nz`) band chart.
 - Turkey (`tr`) band chart.
 - Thailand (`th`) band chart.
